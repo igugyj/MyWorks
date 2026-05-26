@@ -1,0 +1,58 @@
+{% extends "base.html" %}
+
+{% block content %}
+<section class="hero" id="hero">
+  <div class="container">
+    <h1 class="hero-title">{{ site.title }}</h1>
+    <p class="hero-subtitle">{{ site.subtitle }}</p>
+  </div>
+</section>
+
+<section class="works" id="works">
+  <div class="container">
+    <h2 class="section-title">作品</h2>
+    <div class="works-grid">
+      {% for work in works %}
+      <article class="work-card" data-index="{{ loop.index0 }}">
+        <div class="card-image">
+          <img src="{{ work.image }}" alt="{{ work.title }}" loading="lazy">
+        </div>
+        <div class="card-body">
+          <h3 class="card-title">{{ work.title }}</h3>
+          <div class="card-tags">
+            {% for tag in work.tags %}
+            <span class="tag">{{ tag }}</span>
+            {% endfor %}
+          </div>
+          <p class="card-description">{{ work.description }}</p>
+          <button class="card-btn" data-index="{{ loop.index0 }}">查看详情</button>
+        </div>
+      </article>
+      {% endfor %}
+    </div>
+  </div>
+</section>
+
+<section class="about" id="about">
+  <div class="container">
+    <h2 class="section-title">关于</h2>
+    <p class="about-text">{{ about }}</p>
+  </div>
+</section>
+
+<section class="links-section" id="links">
+  <div class="container">
+    <h2 class="section-title">链接</h2>
+    <div class="links-grid">
+      {% for link in links %}
+      <a href="{{ link.url }}" class="link-card" target="_blank" rel="noopener noreferrer">
+        <i data-feather="external-link"></i>
+        <span>{{ link.label }}</span>
+      </a>
+      {% endfor %}
+    </div>
+  </div>
+</section>
+
+<script id="works-data" type="application/json">{{ works | tojson }}</script>
+{% endblock %}

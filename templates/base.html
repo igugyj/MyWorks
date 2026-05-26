@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{{ site.title }}</title>
+  <meta name="description" content="{{ site.subtitle }}">
+  <link rel="icon" href="assets/images/placeholder.svg">
+  <link rel="stylesheet" href="assets/css/style.css">
+</head>
+<body>
+
+  <nav class="navbar">
+    <div class="nav-inner">
+      <a href="#" class="nav-logo">
+        <i data-feather="box"></i>
+        <span>{{ site.title }}</span>
+      </a>
+      <div class="nav-right">
+        <div class="nav-links">
+          {% for item in nav %}
+          <a href="{{ item.anchor }}" class="nav-link">{{ item.label }}</a>
+          {% endfor %}
+        </div>
+        <button id="theme-toggle" class="theme-btn" aria-label="切换主题">
+          <i data-feather="sun" class="sun-icon"></i>
+          <i data-feather="moon" class="moon-icon"></i>
+        </button>
+      </div>
+    </div>
+  </nav>
+
+  <main>
+    {% block content %}{% endblock %}
+  </main>
+
+  <footer class="footer">
+    <p>&copy; {{ site.title }}. All rights reserved.</p>
+  </footer>
+
+  <div id="work-modal" class="modal-overlay">
+    <div class="modal">
+      <button class="modal-close" aria-label="关闭">
+        <i data-feather="x"></i>
+      </button>
+      <div class="modal-image-wrapper">
+        <img class="modal-image" src="" alt="">
+      </div>
+      <div class="modal-body">
+        <h2 class="modal-title"></h2>
+        <div class="modal-tags"></div>
+        <p class="modal-description"></p>
+        <div class="modal-links"></div>
+      </div>
+    </div>
+  </div>
+
+  <button id="back-to-top" class="back-to-top" aria-label="回到顶部">
+    <i data-feather="arrow-up"></i>
+  </button>
+
+  <script src="https://cdn.jsdelivr.net/npm/feather-icons/dist/feather.min.js"></script>
+  <script src="assets/js/main.js"></script>
+</body>
+</html>

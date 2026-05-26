@@ -1,0 +1,84 @@
+site:
+  title: "MyWorks"
+  subtitle: "设计 · 开发 · 创造"
+
+nav:
+  - label: "作品"
+    anchor: "#works"
+  - label: "关于"
+    anchor: "#about"
+  - label: "链接"
+    anchor: "#links"
+
+about: "热爱技术与设计，专注于创造优雅且实用的数字产品。持续探索前端、后端与交互设计的最佳实践。"
+
+works:
+  - title: "任务管理应用"
+    description: "简洁高效的看板式任务管理工具"
+    detail: "基于 Vue 3 和 Go 构建的全栈任务管理应用。支持拖拽排序、多用户协作、实时同步等特性。前端采用 Composition API，后端使用 Gin 框架，数据库使用 PostgreSQL。"
+    image: "assets/images/placeholder.svg"
+    tags: ["Vue", "Go", "PostgreSQL"]
+    links:
+      - label: "在线演示"
+        url: "https://example.com/demo"
+      - label: "源代码"
+        url: "https://github.com/example/taskflow"
+
+  - title: "天气可视化"
+    description: "精美的天气数据可视化面板"
+    detail: "使用 React 和 D3.js 构建的天气预报应用，展示未来 7 天天气数据。包含温度曲线、降水概率图、风速玫瑰图等多种可视化形式。支持城市搜索和地理位置定位。"
+    image: "assets/images/placeholder.svg"
+    tags: ["React", "D3.js", "API"]
+    links:
+      - label: "在线演示"
+        url: "https://example.com/weather"
+
+  - title: "个人博客引擎"
+    description: "轻量级静态博客生成器"
+    detail: "基于 Python 构建的静态博客生成器，支持 Markdown 写作、标签分类、全文搜索。主题系统基于 Jinja2 模板，可自定义布局。支持 GitHub Pages 一键部署。"
+    image: "assets/images/placeholder.svg"
+    tags: ["Python", "Markdown", "CLI"]
+    links:
+      - label: "源代码"
+        url: "https://github.com/example/blog"
+
+  - title: "电商数据看板"
+    description: "实时销售数据监控与分析面板"
+    detail: "基于 ECharts 和 WebSocket 构建的实时数据看板。展示销售额、订单量、用户增长等核心指标，支持数据下钻和自定义时间范围。后端采用 Node.js + Redis 实现实时推送。"
+    image: "assets/images/placeholder.svg"
+    tags: ["ECharts", "Node.js", "Redis"]
+    links:
+      - label: "在线演示"
+        url: "https://example.com/dashboard"
+
+  - title: "Markdown 编辑器"
+    description: "所见即所得的在线 Markdown 编辑器"
+    detail: "支持实时预览、语法高亮、数学公式渲染的 Markdown 编辑器。基于 CodeMirror 6 构建编辑核心，支持自定义主题、导出 PDF/HTML、图床集成等功能。"
+    image: "assets/images/placeholder.svg"
+    tags: ["JavaScript", "CodeMirror", "WYSIWYG"]
+    links:
+      - label: "在线演示"
+        url: "https://example.com/mdeditor"
+      - label: "源代码"
+        url: "https://github.com/example/mdeditor"
+
+  - title: "API 文档平台"
+    description: "自动生成的 RESTful API 文档站点"
+    detail: "基于 OpenAPI 规范自动生成交互式 API 文档。支持在线调试、代码示例生成（多语言）、Mock 服务器等功能。使用 React + TypeScript 构建，支持主题定制。"
+    image: "assets/images/placeholder.svg"
+    tags: ["React", "TypeScript", "OpenAPI"]
+    links:
+      - label: "在线演示"
+        url: "https://example.com/api-docs"
+      - label: "源代码"
+        url: "https://github.com/example/api-docs"
+
+links:
+  - label: "GitHub"
+    url: "https://github.com/"
+  - label: "掘金"
+    url: "https://juejin.cn/"
+  - label: "知乎"
+    url: "https://zhihu.com/"
+  - label: "Twitter / X"
+    url: "https://x.com/"
