@@ -102,12 +102,14 @@ works:
         url: "https://github.com/igugyj/MyKokoro"
 
   - title: "EMO"
-    description: "个人表情包管理库"
-    detail: "个人表情包资源管理与索引工具，支持整理、分类和检索收藏的表情包资源。Python 构建。"
+    description: "个人表情包库"
+    detail: "个人表情包库"
     tags: ["Python"]
     links:
       - label: "GitHub"
         url: "https://github.com/igugyj/EMO"
+      - label: "Web"
+        url: "https://emogallery.pages.dev/"
 
   - title: "高德坐标拾取器"
     description: "地图坐标与图形绘制工具"
