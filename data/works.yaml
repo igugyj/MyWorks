@@ -1,6 +1,6 @@
 site:
-  title: "MyWorks"
-  subtitle: "设计 · 开发 · 创造"
+  title: "igugyj"
+  subtitle: "于二进制潮汐中求索"
 
 nav:
   - label: "作品"
@@ -10,75 +10,208 @@ nav:
   - label: "链接"
     anchor: "#links"
 
-about: "热爱技术与设计，专注于创造优雅且实用的数字产品。持续探索前端、后端与交互设计的最佳实践。"
+about: "学生开发者，坐标四川。热爱开源与技术创作，持续探索 C++、Python、前端与桌面应用开发。"
 
 works:
-  - title: "任务管理应用"
-    description: "简洁高效的看板式任务管理工具"
-    detail: "基于 Vue 3 和 Go 构建的全栈任务管理应用。支持拖拽排序、多用户协作、实时同步等特性。前端采用 Composition API，后端使用 Gin 框架，数据库使用 PostgreSQL。"
-    image: "assets/images/placeholder.svg"
-    tags: ["Vue", "Go", "PostgreSQL"]
+  - title: "Pelr"
+    description: "以实用为导向的 Windows 桌面宠物"
+    detail: "基于 C++ 和 Qt6 的 Live2D 桌面宠物应用。集成 AI 对话、语音合成（Edge TTS / 讯飞 / VOICEVOX）、天气信息、TODO 管理、快捷启动、键盘状态监控、音乐托盘等多种实用功能。使用 OpenGL 渲染 Live2D 模型，支持自定义表情动作。MIT 协议开源。"
+    tags: ["C++", "Qt6", "OpenGL", "Live2D"]
+    image: "assets/images/projects/Pelr/image.png"
     links:
-      - label: "在线演示"
-        url: "https://example.com/demo"
-      - label: "源代码"
-        url: "https://github.com/example/taskflow"
+      - label: "GitHub"
+        url: "https://github.com/igugyj/Pelr"
 
-  - title: "天气可视化"
-    description: "精美的天气数据可视化面板"
-    detail: "使用 React 和 D3.js 构建的天气预报应用，展示未来 7 天天气数据。包含温度曲线、降水概率图、风速玫瑰图等多种可视化形式。支持城市搜索和地理位置定位。"
-    image: "assets/images/placeholder.svg"
-    tags: ["React", "D3.js", "API"]
+  - title: "StickersManager2"
+    description: "Windows 10/11 离线贴纸管理器"
+    detail: "使用 Qt6 构建的 Windows 贴纸管理应用。支持离线管理和展示贴纸资源，为用户提供便捷的桌面贴纸整理与浏览体验。接替第一代 StickersManager 的完全重写版本。MIT 协议开源。"
+    tags: ["C++", "Qt6"]
+    image: "assets/images/projects/StickersManager2/image.png"
     links:
-      - label: "在线演示"
-        url: "https://example.com/weather"
+      - label: "GitHub"
+        url: "https://github.com/igugyj/StickersManager2"
 
-  - title: "个人博客引擎"
-    description: "轻量级静态博客生成器"
-    detail: "基于 Python 构建的静态博客生成器，支持 Markdown 写作、标签分类、全文搜索。主题系统基于 Jinja2 模板，可自定义布局。支持 GitHub Pages 一键部署。"
-    image: "assets/images/placeholder.svg"
-    tags: ["Python", "Markdown", "CLI"]
+  - title: "FunRadiusP"
+    description: "自用静态博客系统"
+    detail: "基于 TypeScript 和 Next.js 构建的轻量级静态博客系统。支持 Markdown 文章编写、标签分类、评论互动等功能。"
+    tags: ["TypeScript", "Next.js"]
+    image: "assets/images/projects/FunRadiusP/preview.png"
     links:
-      - label: "源代码"
-        url: "https://github.com/example/blog"
+      - label: "博客站点"
+        url: "https://pg25-lsae.eu.org"
+      - label: "GitHub"
+        url: "https://github.com/igugyj/FunRadiusP"
 
-  - title: "电商数据看板"
-    description: "实时销售数据监控与分析面板"
-    detail: "基于 ECharts 和 WebSocket 构建的实时数据看板。展示销售额、订单量、用户增长等核心指标，支持数据下钻和自定义时间范围。后端采用 Node.js + Redis 实现实时推送。"
-    image: "assets/images/placeholder.svg"
-    tags: ["ECharts", "Node.js", "Redis"]
+  - title: "WebDavServer"
+    description: "轻量级 WebDAV 服务管理工具"
+    detail: "基于 Python 和 PySide6 构建的 WebDAV 服务管理工具。提供可视化配置界面，支持跨平台运行，简化 WebDAV 服务器的设置与管理流程。"
+    tags: ["Python", "PySide6"]
     links:
-      - label: "在线演示"
-        url: "https://example.com/dashboard"
+      - label: "GitHub"
+        url: "https://github.com/igugyj/WebDavServer"
 
-  - title: "Markdown 编辑器"
-    description: "所见即所得的在线 Markdown 编辑器"
-    detail: "支持实时预览、语法高亮、数学公式渲染的 Markdown 编辑器。基于 CodeMirror 6 构建编辑核心，支持自定义主题、导出 PDF/HTML、图床集成等功能。"
-    image: "assets/images/placeholder.svg"
-    tags: ["JavaScript", "CodeMirror", "WYSIWYG"]
+  - title: "PaceTrace"
+    description: "校园跑步管理应用（Python / Kotlin）"
+    detail: "校园跑步管理与追踪仪表盘，支持记录与分析跑步数据。先后以 Python 和 Kotlin 两个版本实现，Kotlin 版为完整重构。"
+    tags: ["Python", "Kotlin"]
     links:
-      - label: "在线演示"
-        url: "https://example.com/mdeditor"
-      - label: "源代码"
-        url: "https://github.com/example/mdeditor"
+      - label: "Python 版"
+        url: "https://github.com/igugyj/PaceTrace"
+      - label: "Kotlin 版"
+        url: "https://github.com/igugyj/PaceTraceKotlin"
 
-  - title: "API 文档平台"
-    description: "自动生成的 RESTful API 文档站点"
-    detail: "基于 OpenAPI 规范自动生成交互式 API 文档。支持在线调试、代码示例生成（多语言）、Mock 服务器等功能。使用 React + TypeScript 构建，支持主题定制。"
-    image: "assets/images/placeholder.svg"
-    tags: ["React", "TypeScript", "OpenAPI"]
+  - title: "PTab"
+    description: "沉浸式 Chrome 新标签页扩展"
+    detail: "一个简洁的 Chrome 浏览器扩展，使用本地视频文件作为新标签页的背景，营造沉浸式浏览体验。支持自定义视频源。MIT 协议开源。"
+    tags: ["JavaScript", "Chrome"]
     links:
-      - label: "在线演示"
-        url: "https://example.com/api-docs"
-      - label: "源代码"
-        url: "https://github.com/example/api-docs"
+      - label: "GitHub"
+        url: "https://github.com/igugyj/PTab"
+
+  - title: "DailyAPI"
+    description: "多平台实时热搜桌面应用"
+    detail: "聚合微博、知乎、百度等多平台实时热搜榜单的桌面应用，提供一站式热搜资讯浏览体验。Python 构建。"
+    image: "assets/images/projects/DailyAPI/image.png"
+    tags: ["Python"]
+    links:
+      - label: "GitHub"
+        url: "https://github.com/igugyj/DailyAPI"
+
+  - title: "FetchJWC"
+    description: "CUIT 教务处通知监控工具"
+    detail: "成都信息工程大学教务处「教学运行」栏目通知监控工具，自动检测新发布的通知并推送提醒，方便及时获取教务动态。MIT 协议开源。"
+    tags: ["Python"]
+    links:
+      - label: "GitHub"
+        url: "https://github.com/igugyj/FetchJWC"
+
+  - title: "Pelr TTS Service"
+    description: "独立 TTS 与翻译后台服务"
+    detail: "为 Pelr 桌面宠物提供语音合成能力的独立后台服务，整合 Edge TTS、讯飞 TTS 与翻译接口，支持独立部署与使用。"
+    tags: ["Python", "TTS"]
+    links:
+      - label: "GitHub"
+        url: "https://github.com/igugyj/Pelr_tts_tr"
+
+  - title: "MyKokoro"
+    description: "Kokoro TTS WebUI 与 API"
+    detail: "Kokoro-82M-v1.1-zh 模型的 WebUI 与 API 封装，提供便捷的中文语音合成接口，支持在线调用与批量合成。Apache 2.0 协议开源。"
+    tags: ["Python", "TTS", "WebUI"]
+    links:
+      - label: "GitHub"
+        url: "https://github.com/igugyj/MyKokoro"
+
+  - title: "EMO"
+    description: "个人表情包管理库"
+    detail: "个人表情包资源管理与索引工具，支持整理、分类和检索收藏的表情包资源。Python 构建。"
+    tags: ["Python"]
+    links:
+      - label: "GitHub"
+        url: "https://github.com/igugyj/EMO"
+
+  - title: "高德坐标拾取器"
+    description: "地图坐标与图形绘制工具"
+    detail: "基于 Vue 3 和 TypeScript 的高德地图坐标拾取器，支持在地图上绘制多边形、矩形和圆形，并获取图形角点坐标数据。MIT 协议开源。"
+    tags: ["Vue 3", "TypeScript"]
+    links:
+      - label: "GitHub"
+        url: "https://github.com/igugyj/amap-coordinate-picking"
+
+  - title: "time30"
+    description: "30 小时制时钟"
+    detail: "提供不同于传统 24 小时制的 30 小时制时钟，适用于特定场景下的时间表达需求。MIT 协议开源。"
+    image: "assets/images/projects/time30/image.png"
+    tags: ["Python","Qt"]
+    links:
+      - label: "GitHub"
+        url: "https://github.com/igugyj/time30"
+
+  - title: "ASCII ART"
+    description: "视频实时转终端 ASCII 动画"
+    detail: "Python 程序，使用 FFmpeg 提取视频帧并将像素映射为字符，在终端中实时播放视频的 ASCII 艺术动画。"
+    tags: ["Python"]
+    links:
+      - label: "GitHub"
+        url: "https://github.com/igugyj/ASCII_ART"
+
+  - title: "image_show"
+    description: "跨平台全屏图片播放器"
+    detail: "跨平台全屏图片播放工具，支持自动轮播指定目录中的所有图片，适用于展示、演示等场景。Python 构建。"
+    tags: ["Python"]
+    links:
+      - label: "GitHub"
+        url: "https://github.com/igugyj/image_show"
+
+  - title: "lx_console_lyrics"
+    description: "终端歌词打印工具"
+    detail: "基于 LX Music API 的终端歌词打印脚本，在终端中实时显示当前播放音乐的歌词。Kotlin 构建。"
+    tags: ["Kotlin"]
+    links:
+      - label: "GitHub"
+        url: "https://github.com/igugyj/lx_console_lyrics"
+
+  - title: "Snap2HTML GitHub 主题"
+    description: "Snap2HTML 目录快照主题"
+    detail: "为 Snap2HTML 目录快照工具定制的 GitHub 风格主题模板，让生成的目录浏览页面呈现类似 GitHub 仓库的视觉风格。MIT 协议开源。"
+    tags: ["HTML", "CSS"]
+    links:
+      - label: "GitHub"
+        url: "https://github.com/igugyj/Snap2HTML-GitHub-Theme"
+
+  - title: "RDSentence"
+    description: "本地化桌面随机语句展示工具"
+    detail: "基于 Qt6 和 C++17 开发的跨平台桌面应用，支持系统托盘常驻与随机文本展示。提供字体/颜色/布局自由配置、热加载配置文件、单实例运行等功能。MIT 协议开源。"
+    tags: ["C++", "Qt6"]
+    links:
+      - label: "Gitee"
+        url: "https://gitee.com/Pfolg/RDSentence"
+
+  - title: "RandomName"
+    description: "3D 旋转木马随机点名工具"
+    detail: "具有 3D 旋转木马视觉效果的点名工具，支持随机抽取与展示，适用于课堂互动、活动抽选等场景。"
+    tags: ["JavaScript", "Python"]
+    links:
+      - label: "Gitee"
+        url: "https://gitee.com/Pfolg/RandomName"
+
+  - title: "ActivateWindows"
+    description: "Windows 激活水印显示工具"
+    detail: "在 Windows 桌面上显示激活水印的小工具，支持自定义水印内容和样式。基于 Qt 框架构建。"
+    tags: ["C++", "Qt"]
+    links:
+      - label: "Gitee"
+        url: "https://gitee.com/Pfolg/ActivateWindows"
+
+  - title: "Rotating Rhythm"
+    description: "音频检测旋转托盘图标"
+    detail: "实时检测 Windows 系统音频输出并驱动托盘图标旋转的桌面工具。基于 Qt6 + WASAPI 实现音频环回采集与频谱分析。GPL-3.0 协议开源。"
+    tags: ["C++", "Qt6"]
+    links:
+      - label: "Gitee"
+        url: "https://gitee.com/Pfolg/Rotating-Rhythm"
+
+  - title: "BlindWaterMark"
+    description: "盲水印工具（PySide6）"
+    detail: "基于 PySide6 和 blind_watermark 库构建的盲水印图形化工具，支持图片水印嵌入与提取。提供简洁的 GUI 操作界面。"
+    tags: ["Python", "PySide6"]
+    links:
+      - label: "Gitee"
+        url: "https://gitee.com/Pfolg/BlindWaterMark"
+
+  - title: "IconChanger"
+    description: "Windows 文件夹图标更改工具"
+    detail: "用于更改 Windows 文件夹图标的 Python 脚本工具，支持自定义文件夹显示图标，简化图标更换流程。"
+    tags: ["Python"]
+    links:
+      - label: "Gitee"
+        url: "https://gitee.com/Pfolg/IconChanger"
 
 links:
   - label: "GitHub"
-    url: "https://github.com/"
-  - label: "掘金"
-    url: "https://juejin.cn/"
-  - label: "知乎"
-    url: "https://zhihu.com/"
-  - label: "Twitter / X"
-    url: "https://x.com/"
+    url: "https://github.com/igugyj"
+  - label: "Bilibili"
+    url: "https://space.bilibili.com/515553532"
+  - label: "Gitee"
+    url: "https://gitee.com/Pfolg"
+  - label: "博客"
+    url: "https://pg25-lsae.eu.org"
