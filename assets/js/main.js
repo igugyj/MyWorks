@@ -32,9 +32,16 @@
     var work = worksData[index];
     if (!work) return;
 
+    var imgWrapper = document.getElementById('modal-image-wrapper');
     var imgEl = modal.querySelector('.modal-image');
-    imgEl.src = work.image;
-    imgEl.alt = work.title;
+    if (work.image) {
+      imgEl.src = work.image;
+      imgEl.alt = work.title;
+      imgWrapper.style.display = '';
+    } else {
+      imgWrapper.style.display = 'none';
+    }
+
     modal.querySelector('.modal-title').textContent = work.title;
     modal.querySelector('.modal-description').textContent = work.detail;
 
@@ -71,13 +78,6 @@
 
   document.querySelectorAll('.work-card').forEach(function (card) {
     card.addEventListener('click', function () {
-      openModal(parseInt(this.dataset.index));
-    });
-  });
-
-  document.querySelectorAll('.card-btn').forEach(function (btn) {
-    btn.addEventListener('click', function (e) {
-      e.stopPropagation();
       openModal(parseInt(this.dataset.index));
     });
   });
