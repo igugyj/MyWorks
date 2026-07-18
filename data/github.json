@@ -1,0 +1,466 @@
+[
+  {
+    "title": "amap-coordinate-picking",
+    "description": "一个基于Vue3和TypeScript的高德地图坐标拾取器，可以在地图上绘制多边形、矩形和圆形，并获取图形的角点坐标。",
+    "detail": "一个基于Vue3和TypeScript的高德地图坐标拾取器，可以在地图上绘制多边形、矩形和圆形，并获取图形的角点坐标。",
+    "tags": [
+      "Vue"
+    ],
+    "links": [
+      {
+        "label": "GitHub",
+        "url": "https://github.com/igugyj/amap-coordinate-picking"
+      }
+    ]
+  },
+  {
+    "title": "ASCII_ART",
+    "description": "A Python program that converts videos into ASCII art and plays them in real-time in the terminal by extracting frames with FFmpeg and mapping pixels to characters.",
+    "detail": "A Python program that converts videos into ASCII art and plays them in real-time in the terminal by extracting frames with FFmpeg and mapping pixels to characters.",
+    "tags": [
+      "Python"
+    ],
+    "links": [
+      {
+        "label": "GitHub",
+        "url": "https://github.com/igugyj/ASCII_ART"
+      }
+    ]
+  },
+  {
+    "title": "AutoSelectJWCJudgement",
+    "description": "Auto select choices in CUIT JWC Judgement",
+    "detail": "Auto select choices in CUIT JWC Judgement",
+    "tags": [],
+    "links": [
+      {
+        "label": "GitHub",
+        "url": "https://github.com/igugyj/AutoSelectJWCJudgement"
+      }
+    ]
+  },
+  {
+    "title": "AutoSign",
+    "description": "油猴自动签到框架，TypeScript + Rollup 构建，支持多站点模块化扩展",
+    "detail": "油猴自动签到框架，TypeScript + Rollup 构建，支持多站点模块化扩展",
+    "tags": [
+      "TypeScript"
+    ],
+    "links": [
+      {
+        "label": "GitHub",
+        "url": "https://github.com/igugyj/AutoSign"
+      }
+    ]
+  },
+  {
+    "title": "clamav-win-guard",
+    "description": "ClamAV Guard for Windows",
+    "detail": "ClamAV Guard for Windows",
+    "tags": [
+      "PowerShell"
+    ],
+    "links": [
+      {
+        "label": "GitHub",
+        "url": "https://github.com/igugyj/clamav-win-guard"
+      }
+    ]
+  },
+  {
+    "title": "DailyAPI",
+    "description": "一个聚合了多平台实时热搜的桌面应用项目",
+    "detail": "一个聚合了多平台实时热搜的桌面应用项目",
+    "tags": [
+      "Python"
+    ],
+    "links": [
+      {
+        "label": "GitHub",
+        "url": "https://github.com/igugyj/DailyAPI"
+      }
+    ]
+  },
+  {
+    "title": "EMO",
+    "description": "Personal Emoticon Library",
+    "detail": "Personal Emoticon Library",
+    "tags": [
+      "Python"
+    ],
+    "links": [
+      {
+        "label": "GitHub",
+        "url": "https://github.com/igugyj/EMO"
+      }
+    ]
+  },
+  {
+    "title": "FetchJWC",
+    "description": "CUIT教务处“教学运行”通知监控工具",
+    "detail": "CUIT教务处“教学运行”通知监控工具",
+    "tags": [
+      "Python"
+    ],
+    "links": [
+      {
+        "label": "GitHub",
+        "url": "https://github.com/igugyj/FetchJWC"
+      }
+    ]
+  },
+  {
+    "title": "FunRadiusP",
+    "description": "自用静态博客系统",
+    "detail": "自用静态博客系统",
+    "tags": [
+      "TypeScript"
+    ],
+    "links": [
+      {
+        "label": "GitHub",
+        "url": "https://github.com/igugyj/FunRadiusP"
+      }
+    ]
+  },
+  {
+    "title": "igugyj",
+    "description": "",
+    "detail": "",
+    "tags": [],
+    "links": [
+      {
+        "label": "GitHub",
+        "url": "https://github.com/igugyj/igugyj"
+      }
+    ]
+  },
+  {
+    "title": "image_show",
+    "description": "[Cross-Platform] Full-Screen Playback of All Images in a Directory 【跨平台】全屏播放某个目录内所有图片",
+    "detail": "[Cross-Platform] Full-Screen Playback of All Images in a Directory 【跨平台】全屏播放某个目录内所有图片",
+    "tags": [
+      "Python"
+    ],
+    "links": [
+      {
+        "label": "GitHub",
+        "url": "https://github.com/igugyj/image_show"
+      }
+    ]
+  },
+  {
+    "title": "lx_console_lyrics",
+    "description": "基于LX Music API的终端歌词打印脚本",
+    "detail": "基于LX Music API的终端歌词打印脚本",
+    "tags": [
+      "Kotlin"
+    ],
+    "links": [
+      {
+        "label": "GitHub",
+        "url": "https://github.com/igugyj/lx_console_lyrics"
+      }
+    ]
+  },
+  {
+    "title": "MyBlog-demos",
+    "description": "MyBlog-demos",
+    "detail": "MyBlog-demos",
+    "tags": [
+      "HTML"
+    ],
+    "links": [
+      {
+        "label": "GitHub",
+        "url": "https://github.com/igugyj/MyBlog-demos"
+      }
+    ]
+  },
+  {
+    "title": "MyBlog-docs",
+    "description": "MyBlog-docs",
+    "detail": "MyBlog-docs",
+    "tags": [],
+    "links": [
+      {
+        "label": "GitHub",
+        "url": "https://github.com/igugyj/MyBlog-docs"
+      }
+    ]
+  },
+  {
+    "title": "MyBlog-moments",
+    "description": "MyBlog-moments",
+    "detail": "MyBlog-moments",
+    "tags": [
+      "JavaScript"
+    ],
+    "links": [
+      {
+        "label": "GitHub",
+        "url": "https://github.com/igugyj/MyBlog-moments"
+      }
+    ]
+  },
+  {
+    "title": "MyBlog-posts",
+    "description": "MyBlog-posts",
+    "detail": "MyBlog-posts",
+    "tags": [
+      "HTML"
+    ],
+    "links": [
+      {
+        "label": "GitHub",
+        "url": "https://github.com/igugyj/MyBlog-posts"
+      }
+    ]
+  },
+  {
+    "title": "MyBlog-spec",
+    "description": "MyBlog-spec",
+    "detail": "MyBlog-spec",
+    "tags": [],
+    "links": [
+      {
+        "label": "GitHub",
+        "url": "https://github.com/igugyj/MyBlog-spec"
+      }
+    ]
+  },
+  {
+    "title": "MyKokoro",
+    "description": "Kokoro-82M-v1.1-zh Webui & API",
+    "detail": "Kokoro-82M-v1.1-zh Webui & API",
+    "tags": [
+      "HTML"
+    ],
+    "links": [
+      {
+        "label": "GitHub",
+        "url": "https://github.com/igugyj/MyKokoro"
+      }
+    ]
+  },
+  {
+    "title": "MyWorks",
+    "description": "基于 Python 的静态作品集站点生成器",
+    "detail": "基于 Python 的静态作品集站点生成器",
+    "tags": [
+      "CSS"
+    ],
+    "links": [
+      {
+        "label": "GitHub",
+        "url": "https://github.com/igugyj/MyWorks"
+      }
+    ]
+  },
+  {
+    "title": "ncmapi",
+    "description": "BetterNCM plugin that exposes a local HTTP API ",
+    "detail": "BetterNCM plugin that exposes a local HTTP API ",
+    "tags": [],
+    "links": [
+      {
+        "label": "GitHub",
+        "url": "https://github.com/igugyj/ncmapi"
+      }
+    ]
+  },
+  {
+    "title": "PaceTrace",
+    "description": "A campus run management dashboard for personal use",
+    "detail": "A campus run management dashboard for personal use",
+    "tags": [
+      "Python"
+    ],
+    "links": [
+      {
+        "label": "GitHub",
+        "url": "https://github.com/igugyj/PaceTrace"
+      }
+    ]
+  },
+  {
+    "title": "PaceTraceKotlin",
+    "description": "PaceTrace by Kotlin",
+    "detail": "PaceTrace by Kotlin",
+    "tags": [
+      "Kotlin"
+    ],
+    "links": [
+      {
+        "label": "GitHub",
+        "url": "https://github.com/igugyj/PaceTraceKotlin"
+      }
+    ]
+  },
+  {
+    "title": "pblog-comments",
+    "description": "",
+    "detail": "",
+    "tags": [
+      "Python"
+    ],
+    "links": [
+      {
+        "label": "GitHub",
+        "url": "https://github.com/igugyj/pblog-comments"
+      }
+    ]
+  },
+  {
+    "title": "Pelr",
+    "description": "Utility-oriented Windows desktop pet.",
+    "detail": "Utility-oriented Windows desktop pet.",
+    "tags": [
+      "C++"
+    ],
+    "links": [
+      {
+        "label": "GitHub",
+        "url": "https://github.com/igugyj/Pelr"
+      }
+    ]
+  },
+  {
+    "title": "Pelr_tts_tr",
+    "description": "独立 TTS 服务，整合了 Edge TTS、讯飞 TTS 与翻译接口。",
+    "detail": "独立 TTS 服务，整合了 Edge TTS、讯飞 TTS 与翻译接口。",
+    "tags": [
+      "Python"
+    ],
+    "links": [
+      {
+        "label": "GitHub",
+        "url": "https://github.com/igugyj/Pelr_tts_tr"
+      }
+    ]
+  },
+  {
+    "title": "PTab",
+    "description": "一个简单的以本地视频为背景的沉浸式浏览器新标签页扩展",
+    "detail": "一个简单的以本地视频为背景的沉浸式浏览器新标签页扩展",
+    "tags": [
+      "JavaScript"
+    ],
+    "links": [
+      {
+        "label": "GitHub",
+        "url": "https://github.com/igugyj/PTab"
+      }
+    ]
+  },
+  {
+    "title": "QuickTray",
+    "description": "This repository is just a backup; if needed, you can compile it yourself.",
+    "detail": "This repository is just a backup; if needed, you can compile it yourself.",
+    "tags": [
+      "Python"
+    ],
+    "links": [
+      {
+        "label": "GitHub",
+        "url": "https://github.com/igugyj/QuickTray"
+      }
+    ]
+  },
+  {
+    "title": "ShiningStars",
+    "description": "Let your stars shine bright, always.",
+    "detail": "Let your stars shine bright, always.",
+    "tags": [],
+    "links": [
+      {
+        "label": "GitHub",
+        "url": "https://github.com/igugyj/ShiningStars"
+      }
+    ]
+  },
+  {
+    "title": "Snap2HTML-GitHub-Theme",
+    "description": "Snap2HTML GitHub Theme",
+    "detail": "Snap2HTML GitHub Theme",
+    "tags": [
+      "HTML"
+    ],
+    "links": [
+      {
+        "label": "GitHub",
+        "url": "https://github.com/igugyj/Snap2HTML-GitHub-Theme"
+      }
+    ]
+  },
+  {
+    "title": "StickersManager",
+    "description": "PC Stickers Manager",
+    "detail": "PC Stickers Manager",
+    "tags": [
+      "Python"
+    ],
+    "links": [
+      {
+        "label": "GitHub",
+        "url": "https://github.com/igugyj/StickersManager"
+      }
+    ]
+  },
+  {
+    "title": "StickersManager2",
+    "description": "Windows10/11 Offline Stickers Manager",
+    "detail": "Windows10/11 Offline Stickers Manager",
+    "tags": [
+      "C++"
+    ],
+    "links": [
+      {
+        "label": "GitHub",
+        "url": "https://github.com/igugyj/StickersManager2"
+      }
+    ]
+  },
+  {
+    "title": "SymbolSearch",
+    "description": "Unicode 符号搜索与复制工具。快速查找并复制特殊符号、希腊字母、数学符号、单位等。",
+    "detail": "Unicode 符号搜索与复制工具。快速查找并复制特殊符号、希腊字母、数学符号、单位等。",
+    "tags": [
+      "Python"
+    ],
+    "links": [
+      {
+        "label": "GitHub",
+        "url": "https://github.com/igugyj/SymbolSearch"
+      }
+    ]
+  },
+  {
+    "title": "TrafficMonitorLyricPlugin",
+    "description": "歌词显示插件，实时获取 LX Music 正在播放的歌词并渲染到任务栏。",
+    "detail": "歌词显示插件，实时获取 LX Music 正在播放的歌词并渲染到任务栏。",
+    "tags": [
+      "C++"
+    ],
+    "links": [
+      {
+        "label": "GitHub",
+        "url": "https://github.com/igugyj/TrafficMonitorLyricPlugin"
+      }
+    ]
+  },
+  {
+    "title": "WebDavServer",
+    "description": "A lightweight WebDAV service management tool based on Python + PySide6, providing a visual configuration interface with cross-platform support.",
+    "detail": "A lightweight WebDAV service management tool based on Python + PySide6, providing a visual configuration interface with cross-platform support.",
+    "tags": [
+      "Python"
+    ],
+    "links": [
+      {
+        "label": "GitHub",
+        "url": "https://github.com/igugyj/WebDavServer"
+      }
+    ]
+  }
+]
