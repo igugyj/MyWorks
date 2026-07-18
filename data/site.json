@@ -1,0 +1,15 @@
+{
+  "title": "MyWorks",
+  "subtitle": "设计 · 开发 · 创造",
+  "nav": [
+    { "label": "作品", "anchor": "#works" },
+    { "label": "关于", "anchor": "#about" },
+    { "label": "链接", "anchor": "#links" }
+  ],
+  "about": "热爱技术与设计，专注于创造优雅且实用的数字产品。",
+  "links": [
+    { "label": "GitHub", "url": "https://github.com/" },
+    { "label": "掘金", "url": "https://juejin.cn/" },
+    { "label": "知乎", "url": "https://zhihu.com/" }
+  ]
+}

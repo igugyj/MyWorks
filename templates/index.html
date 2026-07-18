@@ -16,11 +16,13 @@
       <article class="work-card" data-index="{{ loop.index0 }}">
         <div class="card-body">
           <h3 class="card-title">{{ work.title }}</h3>
+          {% if work.tags and work.tags|length > 0 %}
           <div class="card-tags">
             {% for tag in work.tags %}
             <span class="tag">{{ tag }}</span>
             {% endfor %}
           </div>
+          {% endif %}
           <p class="card-description">{{ work.description }}</p>
         </div>
       </article>

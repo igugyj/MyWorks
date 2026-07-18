@@ -1,0 +1,21 @@
+[
+  {
+    "title": "任务管理应用",
+    "description": "简洁高效的看板式任务管理工具",
+    "detail": "基于 Vue 3 和 Go 构建的全栈任务管理应用。支持拖拽排序、多用户协作、实时同步等特性。",
+    "tags": ["Vue", "Go", "PostgreSQL"],
+    "links": [
+      { "label": "在线演示", "url": "https://example.com/demo" },
+      { "label": "源代码", "url": "https://github.com/example/taskflow" }
+    ]
+  },
+  {
+    "title": "天气可视化",
+    "description": "精美的天气数据可视化面板",
+    "detail": "使用 React 和 D3.js 构建的天气预报应用，展示未来 7 天天气数据。",
+    "tags": ["React", "D3.js", "API"],
+    "links": [
+      { "label": "在线演示", "url": "https://example.com/weather" }
+    ]
+  }
+]
