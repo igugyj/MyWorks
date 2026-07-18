@@ -40,6 +40,8 @@ def main():
             "detail": desc,
             "tags": tags,
             "links": links,
+            "stars": repo.get("stargazers_count", 0),
+            "pushed_at": repo.get("pushed_at", ""),
         })
 
     DATA_DIR.mkdir(parents=True, exist_ok=True)
