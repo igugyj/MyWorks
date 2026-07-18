@@ -1,0 +1,16 @@
+{
+  "title": "igugyj",
+  "subtitle": "于二进制潮汐中求索",
+  "nav": [
+    { "label": "作品", "anchor": "#works" },
+    { "label": "关于", "anchor": "#about" },
+    { "label": "链接", "anchor": "#links" }
+  ],
+  "about": "学生开发者，坐标四川。热爱开源与技术创作，持续探索 C++、Python、前端与桌面应用开发。",
+  "links": [
+    { "label": "GitHub", "url": "https://github.com/igugyj" },
+    { "label": "Bilibili", "url": "https://space.bilibili.com/515553532" },
+    { "label": "Gitee", "url": "https://gitee.com/Pfolg" },
+    { "label": "博客", "url": "https://pg25-lsae.eu.org" }
+  ]
+}

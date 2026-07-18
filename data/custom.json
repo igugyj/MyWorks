@@ -1,0 +1,56 @@
+[
+  {
+    "title": "RDSentence",
+    "description": "本地化桌面随机语句展示工具",
+    "detail": "基于 Qt6 和 C++17 开发的跨平台桌面应用，支持系统托盘常驻与随机文本展示。提供字体/颜色/布局自由配置、热加载配置文件、单实例运行等功能。MIT 协议开源。",
+    "tags": ["C++", "Qt6"],
+    "links": [
+      { "label": "Gitee", "url": "https://gitee.com/Pfolg/RDSentence" }
+    ]
+  },
+  {
+    "title": "RandomName",
+    "description": "3D 旋转木马随机点名工具",
+    "detail": "具有 3D 旋转木马视觉效果的点名工具，支持随机抽取与展示，适用于课堂互动、活动抽选等场景。",
+    "tags": ["JavaScript", "Python"],
+    "links": [
+      { "label": "Gitee", "url": "https://gitee.com/Pfolg/RandomName" }
+    ]
+  },
+  {
+    "title": "ActivateWindows",
+    "description": "Windows 激活水印显示工具",
+    "detail": "在 Windows 桌面上显示激活水印的小工具，支持自定义水印内容和样式。基于 Qt 框架构建。",
+    "tags": ["C++", "Qt"],
+    "links": [
+      { "label": "Gitee", "url": "https://gitee.com/Pfolg/ActivateWindows" }
+    ]
+  },
+  {
+    "title": "Rotating Rhythm",
+    "description": "音频检测旋转托盘图标",
+    "detail": "实时检测 Windows 系统音频输出并驱动托盘图标旋转的桌面工具。基于 Qt6 + WASAPI 实现音频环回采集与频谱分析。GPL-3.0 协议开源。",
+    "tags": ["C++", "Qt6"],
+    "links": [
+      { "label": "Gitee", "url": "https://gitee.com/Pfolg/Rotating-Rhythm" }
+    ]
+  },
+  {
+    "title": "BlindWaterMark",
+    "description": "盲水印工具（PySide6）",
+    "detail": "基于 PySide6 和 blind_watermark 库构建的盲水印图形化工具，支持图片水印嵌入与提取。提供简洁的 GUI 操作界面。",
+    "tags": ["Python", "PySide6"],
+    "links": [
+      { "label": "Gitee", "url": "https://gitee.com/Pfolg/BlindWaterMark" }
+    ]
+  },
+  {
+    "title": "IconChanger",
+    "description": "Windows 文件夹图标更改工具",
+    "detail": "用于更改 Windows 文件夹图标的 Python 脚本工具，支持自定义文件夹显示图标，简化图标更换流程。",
+    "tags": ["Python"],
+    "links": [
+      { "label": "Gitee", "url": "https://gitee.com/Pfolg/IconChanger" }
+    ]
+  }
+]
