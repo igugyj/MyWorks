@@ -15,12 +15,12 @@ python build.py
 
 JSON 文件合并，优先级 `custom.json` > `github.json`（同名覆盖，不同名追加）。
 
-| 文件 | 说明 | 维护方式 |
-|---|---|---|
-| `data/site.json` | 站点配置（标题、导航、简介、外链） | 手动 |
-| `data/custom.json` | 手动维护的作品（中文描述、额外链接、配图） | 手动 |
-| `data/github.json` | GitHub 仓库自动同步（Action 每周生成） | 自动 |
-| `data/ignore.json` | 按标题或链接排除作品 | 手动 |
+| 文件               | 说明                                       | 维护方式 |
+| ------------------ | ------------------------------------------ | -------- |
+| `data/site.json`   | 站点配置（标题、导航、简介、外链）         | 手动     |
+| `data/custom.json` | 手动维护的作品（中文描述、额外链接、配图） | 手动     |
+| `data/github.json` | GitHub 仓库自动同步（Action 每周生成）     | 自动     |
+| `data/ignore.json` | 按标题或链接排除作品                       | 手动     |
 
 ## 文件结构
 
