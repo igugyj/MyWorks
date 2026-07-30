@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 [
   {
     "title": "amap-coordinate-picking",
@@ -63,6 +62,22 @@
     "pushed_at": "2026-07-17T09:48:37Z"
   },
   {
+    "title": "BackToTopDown",
+    "description": "便捷的全局回到顶部/底部按钮（Top and Down buttons everywhere）",
+    "detail": "便捷的全局回到顶部/底部按钮（Top and Down buttons everywhere）",
+    "tags": [
+      "JavaScript"
+    ],
+    "links": [
+      {
+        "label": "GitHub",
+        "url": "https://github.com/igugyj/BackToTopDown"
+      }
+    ],
+    "stars": 0,
+    "pushed_at": "2026-07-29T12:25:40Z"
+  },
+  {
     "title": "clamav-win-guard",
     "description": "ClamAV Guard for Windows",
     "detail": "ClamAV Guard for Windows",
@@ -76,7 +91,7 @@
       }
     ],
     "stars": 0,
-    "pushed_at": "2026-07-16T10:15:27Z"
+    "pushed_at": "2026-07-25T14:15:25Z"
   },
   {
     "title": "DailyAPI",
@@ -140,7 +155,7 @@
       }
     ],
     "stars": 1,
-    "pushed_at": "2026-07-21T17:42:31Z"
+    "pushed_at": "2026-07-27T12:38:45Z"
   },
   {
     "title": "igugyj",
@@ -248,7 +263,7 @@
       }
     ],
     "stars": 0,
-    "pushed_at": "2026-07-18T01:06:38Z"
+    "pushed_at": "2026-07-22T13:21:23Z"
   },
   {
     "title": "MyBlog-spec",
@@ -262,7 +277,7 @@
       }
     ],
     "stars": 0,
-    "pushed_at": "2026-07-21T17:42:14Z"
+    "pushed_at": "2026-07-27T12:38:16Z"
   },
   {
     "title": "MyKokoro",
@@ -294,7 +309,7 @@
       }
     ],
     "stars": 0,
-    "pushed_at": "2026-07-21T17:44:57Z"
+    "pushed_at": "2026-07-30T04:54:15Z"
   },
   {
     "title": "ncmapi",
@@ -324,7 +339,7 @@
       }
     ],
     "stars": 0,
-    "pushed_at": "2026-07-16T13:05:22Z"
+    "pushed_at": "2026-07-30T04:36:06Z"
   },
   {
     "title": "PaceTraceKotlin",
@@ -344,8 +359,8 @@
   },
   {
     "title": "pblog-comments",
-    "description": "",
-    "detail": "",
+    "description": "博客友链数据&评论基仓库",
+    "detail": "博客友链数据&评论基仓库",
     "tags": [
       "Python"
     ],
@@ -372,7 +387,7 @@
       }
     ],
     "stars": 1,
-    "pushed_at": "2026-07-04T15:08:47Z"
+    "pushed_at": "2026-07-25T04:30:15Z"
   },
   {
     "title": "Pelr_tts_tr",
@@ -434,7 +449,23 @@
       }
     ],
     "stars": 0,
-    "pushed_at": "2026-07-19T01:21:46Z"
+    "pushed_at": "2026-07-30T04:04:23Z"
+  },
+  {
+    "title": "simpleWinWebManager",
+    "description": "Windows remote command panel via web UI and TCP socket.",
+    "detail": "Windows remote command panel via web UI and TCP socket.",
+    "tags": [
+      "HTML"
+    ],
+    "links": [
+      {
+        "label": "GitHub",
+        "url": "https://github.com/igugyj/simpleWinWebManager"
+      }
+    ],
+    "stars": 0,
+    "pushed_at": "2026-07-27T11:34:46Z"
   },
   {
     "title": "Snap2HTML-GitHub-Theme",
@@ -481,7 +512,7 @@
         "url": "https://github.com/igugyj/StickersManager2"
       }
     ],
-    "stars": 2,
+    "stars": 1,
     "pushed_at": "2026-05-29T14:53:57Z"
   },
   {
@@ -514,7 +545,7 @@
       }
     ],
     "stars": 0,
-    "pushed_at": "2026-06-10T12:20:12Z"
+    "pushed_at": "2026-07-28T10:42:49Z"
   },
   {
     "title": "WebDavServer",
@@ -533,6 +564,3 @@
     "pushed_at": "2026-06-12T16:11:12Z"
   }
 ]
-=======
-[]
->>>>>>> main
