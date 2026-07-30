@@ -1,17 +1,17 @@
 {
-  "title": "PFOLG",
+  "title": "igugyj",
   "subtitle": "于二进制潮汐中求索",
   "nav": [
     {
-      "label": "Works",
+      "label": "作品",
       "anchor": "#works"
     },
     {
-      "label": "About",
+      "label": "关于",
       "anchor": "#about"
     },
     {
-      "label": "Links",
+      "label": "链接",
       "anchor": "#links"
     }
   ],
@@ -22,7 +22,7 @@
       "url": "https://github.com/igugyj"
     },
     {
-      "label": "Blog",
+      "label": "博客",
       "url": "https://pg25-lsae.eu.org"
     }
   ]
