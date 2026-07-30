@@ -1,5 +1,37 @@
 [
   {
+    "title": "GiteeOptimizer",
+    "description": "移除 Gitee 页面中不需要的元素",
+    "detail": "移除 Gitee 页面中不需要的元素",
+    "tags": [
+      "Adblock Filter List"
+    ],
+    "links": [
+      {
+        "label": "GitHub",
+        "url": "https://github.com/PfolgCodeDump/GiteeOptimizer"
+      }
+    ]
+  },
+  {
+    "title": "AdGuardLogoOptimizer",
+    "description": "移除 AdGuard浏览器助手 在每个页面的 logo，通过删除其闭合 Shadow DOM 的宿主元素",
+    "detail": "移除 AdGuard浏览器助手 在每个页面的 logo，通过删除其闭合 Shadow DOM 的宿主元素",
+    "tags": [
+      "JavaScript"
+    ],
+    "links": [
+      {
+        "label": "GitHub",
+        "url": "https://github.com/PfolgCodeDump/AdGuardLogoOptimizer"
+      },
+      {
+        "label": "GreasyFork",
+        "url": "https://greasyfork.org/scripts/584543-adguardlogooptimizer"
+      }
+    ]
+  },
+  {
     "title": "RDSentence",
     "description": "本地化桌面随机语句展示工具",
     "detail": "基于 Qt6 和 C++17 开发的跨平台桌面应用，支持系统托盘常驻与随机文本展示。提供字体/颜色/布局自由配置、热加载配置文件、单实例运行等功能。MIT 协议开源。",
