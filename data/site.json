@@ -15,6 +15,11 @@
       "anchor": "#links"
     }
   ],
+  "sections": {
+    "works": "Works",
+    "about": "About",
+    "links": "Links"
+  },
   "about": "热爱开源与技术创作，持续探索 C++、Python、基础前端与桌面应用开发。",
   "links": [
     {

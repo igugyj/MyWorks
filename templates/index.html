@@ -10,7 +10,7 @@
 
 <section class="works" id="works">
   <div class="container">
-    <h2 class="section-title">作品</h2>
+    <h2 class="section-title">{{ site.sections.works }}</h2>
     <div class="works-grid">
       {% for work in works %}
       <article class="work-card" data-index="{{ loop.index0 }}">
@@ -33,14 +33,14 @@
 
 <section class="about" id="about">
   <div class="container">
-    <h2 class="section-title">关于</h2>
+    <h2 class="section-title">{{ site.sections.about }}</h2>
     <p class="about-text">{{ about }}</p>
   </div>
 </section>
 
 <section class="links-section" id="links">
   <div class="container">
-    <h2 class="section-title">链接</h2>
+    <h2 class="section-title">{{ site.sections.links }}</h2>
     <div class="links-grid">
       {% for link in links %}
       <a href="{{ link.url }}" class="link-card" target="_blank" rel="noopener noreferrer">

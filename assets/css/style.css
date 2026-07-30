@@ -316,7 +316,7 @@ section {
 .about-text {
   font-size: 1.0625rem;
   color: var(--text-secondary);
-  max-width: 640px;
+  max-width: 80%;
   line-height: 1.8;
 }
 
