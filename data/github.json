@@ -75,7 +75,7 @@
       }
     ],
     "stars": 0,
-    "pushed_at": "2026-07-29T12:25:40Z"
+    "pushed_at": "2026-07-30T16:01:16Z"
   },
   {
     "title": "clamav-win-guard",
@@ -123,7 +123,7 @@
       }
     ],
     "stars": 1,
-    "pushed_at": "2026-07-20T08:26:45Z"
+    "pushed_at": "2026-08-10T08:43:22Z"
   },
   {
     "title": "FetchJWC",
@@ -155,7 +155,7 @@
       }
     ],
     "stars": 1,
-    "pushed_at": "2026-07-27T12:38:45Z"
+    "pushed_at": "2026-08-11T13:07:07Z"
   },
   {
     "title": "igugyj",
@@ -169,7 +169,7 @@
       }
     ],
     "stars": 0,
-    "pushed_at": "2026-07-21T17:26:40Z"
+    "pushed_at": "2026-08-12T10:46:26Z"
   },
   {
     "title": "image_show",
@@ -238,7 +238,7 @@
     "description": "MyBlog-moments",
     "detail": "MyBlog-moments",
     "tags": [
-      "JavaScript"
+      "HTML"
     ],
     "links": [
       {
@@ -247,7 +247,7 @@
       }
     ],
     "stars": 0,
-    "pushed_at": "2026-07-18T01:05:45Z"
+    "pushed_at": "2026-08-11T13:06:28Z"
   },
   {
     "title": "MyBlog-posts",
@@ -277,7 +277,7 @@
       }
     ],
     "stars": 0,
-    "pushed_at": "2026-07-27T12:38:16Z"
+    "pushed_at": "2026-08-02T06:00:28Z"
   },
   {
     "title": "MyKokoro",
@@ -309,7 +309,7 @@
       }
     ],
     "stars": 0,
-    "pushed_at": "2026-07-30T04:55:19Z"
+    "pushed_at": "2026-08-14T10:46:26Z"
   },
   {
     "title": "ncmapi",
@@ -387,7 +387,7 @@
       }
     ],
     "stars": 1,
-    "pushed_at": "2026-07-25T04:30:15Z"
+    "pushed_at": "2026-08-06T00:45:13Z"
   },
   {
     "title": "Pelr_tts_tr",
@@ -403,7 +403,7 @@
       }
     ],
     "stars": 0,
-    "pushed_at": "2026-05-07T06:01:54Z"
+    "pushed_at": "2026-08-04T09:31:02Z"
   },
   {
     "title": "PTab",
@@ -439,8 +439,8 @@
   },
   {
     "title": "ShiningStars",
-    "description": "Let your stars shine bright, always.",
-    "detail": "Let your stars shine bright, always.",
+    "description": "Let your stars shine bright, always. 「Weekly Update」 ",
+    "detail": "Let your stars shine bright, always. 「Weekly Update」 ",
     "tags": [],
     "links": [
       {
@@ -449,12 +449,12 @@
       }
     ],
     "stars": 0,
-    "pushed_at": "2026-07-30T04:04:23Z"
+    "pushed_at": "2026-08-09T00:44:32Z"
   },
   {
     "title": "simpleWinWebManager",
-    "description": "Windows remote command panel via web UI and TCP socket.",
-    "detail": "Windows remote command panel via web UI and TCP socket.",
+    "description": "Windows LAN command panel via web UI and TCP socket.",
+    "detail": "Windows LAN command panel via web UI and TCP socket.",
     "tags": [
       "HTML"
     ],
@@ -513,7 +513,7 @@
       }
     ],
     "stars": 1,
-    "pushed_at": "2026-05-29T14:53:57Z"
+    "pushed_at": "2026-08-12T04:54:08Z"
   },
   {
     "title": "SymbolSearch",
@@ -544,8 +544,8 @@
         "url": "https://github.com/igugyj/TrafficMonitorLyricPlugin"
       }
     ],
-    "stars": 0,
-    "pushed_at": "2026-07-28T10:42:49Z"
+    "stars": 1,
+    "pushed_at": "2026-08-14T10:19:33Z"
   },
   {
     "title": "WebDavServer",
@@ -561,6 +561,6 @@
       }
     ],
     "stars": 0,
-    "pushed_at": "2026-06-12T16:11:12Z"
+    "pushed_at": "2026-08-01T08:34:52Z"
   }
 ]
