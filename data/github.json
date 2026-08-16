@@ -155,7 +155,7 @@
       }
     ],
     "stars": 1,
-    "pushed_at": "2026-08-11T13:07:07Z"
+    "pushed_at": "2026-08-15T17:22:01Z"
   },
   {
     "title": "igugyj",
@@ -263,7 +263,7 @@
       }
     ],
     "stars": 0,
-    "pushed_at": "2026-07-22T13:21:23Z"
+    "pushed_at": "2026-08-15T17:21:43Z"
   },
   {
     "title": "MyBlog-spec",
@@ -309,7 +309,7 @@
       }
     ],
     "stars": 0,
-    "pushed_at": "2026-08-14T10:46:26Z"
+    "pushed_at": "2026-08-14T10:47:09Z"
   },
   {
     "title": "ncmapi",
@@ -449,7 +449,7 @@
       }
     ],
     "stars": 0,
-    "pushed_at": "2026-08-09T00:44:32Z"
+    "pushed_at": "2026-08-16T00:32:44Z"
   },
   {
     "title": "simpleWinWebManager",
@@ -513,7 +513,7 @@
       }
     ],
     "stars": 1,
-    "pushed_at": "2026-08-12T04:54:08Z"
+    "pushed_at": "2026-08-16T00:36:47Z"
   },
   {
     "title": "SymbolSearch",
@@ -533,8 +533,8 @@
   },
   {
     "title": "TrafficMonitorLyricPlugin",
-    "description": "歌词显示插件，实时获取 LX Music 正在播放的歌词并渲染到任务栏。",
-    "detail": "歌词显示插件，实时获取 LX Music 正在播放的歌词并渲染到任务栏。",
+    "description": "歌词显示插件，实时获取 LX Music 正在播放的歌词并渲染到任务栏，基于 TrafficMonitor v7 插件接口。",
+    "detail": "歌词显示插件，实时获取 LX Music 正在播放的歌词并渲染到任务栏，基于 TrafficMonitor v7 插件接口。",
     "tags": [
       "C++"
     ],
