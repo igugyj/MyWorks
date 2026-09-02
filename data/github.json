@@ -123,7 +123,7 @@
       }
     ],
     "stars": 1,
-    "pushed_at": "2026-08-20T12:20:53Z"
+    "pushed_at": "2026-08-31T13:41:42Z"
   },
   {
     "title": "FetchJWC",
@@ -155,7 +155,7 @@
       }
     ],
     "stars": 1,
-    "pushed_at": "2026-08-20T10:40:07Z"
+    "pushed_at": "2026-09-01T02:58:26Z"
   },
   {
     "title": "igugyj",
@@ -170,6 +170,22 @@
     ],
     "stars": 0,
     "pushed_at": "2026-08-12T10:46:26Z"
+  },
+  {
+    "title": "igugyj.github.io",
+    "description": "static redirect service",
+    "detail": "static redirect service",
+    "tags": [
+      "Python"
+    ],
+    "links": [
+      {
+        "label": "GitHub",
+        "url": "https://github.com/igugyj/igugyj.github.io"
+      }
+    ],
+    "stars": 0,
+    "pushed_at": "2026-09-02T17:30:54Z"
   },
   {
     "title": "image_show",
@@ -263,7 +279,7 @@
       }
     ],
     "stars": 0,
-    "pushed_at": "2026-08-20T10:38:35Z"
+    "pushed_at": "2026-09-01T02:58:07Z"
   },
   {
     "title": "MyBlog-posts",
@@ -279,7 +295,7 @@
       }
     ],
     "stars": 0,
-    "pushed_at": "2026-08-15T17:21:43Z"
+    "pushed_at": "2026-08-30T14:56:50Z"
   },
   {
     "title": "MyBlog-spec",
@@ -325,7 +341,7 @@
       }
     ],
     "stars": 0,
-    "pushed_at": "2026-08-23T00:42:07Z"
+    "pushed_at": "2026-09-02T17:32:28Z"
   },
   {
     "title": "ncmapi",
