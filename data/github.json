@@ -16,22 +16,6 @@
     "pushed_at": "2026-04-09T14:59:53Z"
   },
   {
-    "title": "ASCII_ART",
-    "description": "A Python program that converts videos into ASCII art and plays them in real-time in the terminal by extracting frames with FFmpeg and mapping pixels to characters.",
-    "detail": "A Python program that converts videos into ASCII art and plays them in real-time in the terminal by extracting frames with FFmpeg and mapping pixels to characters.",
-    "tags": [
-      "Python"
-    ],
-    "links": [
-      {
-        "label": "GitHub",
-        "url": "https://github.com/igugyj/ASCII_ART"
-      }
-    ],
-    "stars": 0,
-    "pushed_at": "2025-12-14T07:42:28Z"
-  },
-  {
     "title": "AutoSelectJWCJudgement",
     "description": "Auto select choices in CUIT JWC Judgement",
     "detail": "Auto select choices in CUIT JWC Judgement",
@@ -139,7 +123,7 @@
       }
     ],
     "stars": 1,
-    "pushed_at": "2026-09-21T05:29:57Z"
+    "pushed_at": "2026-10-03T10:39:12Z"
   },
   {
     "title": "FetchJWC",
@@ -171,7 +155,7 @@
       }
     ],
     "stars": 1,
-    "pushed_at": "2026-09-26T08:46:38Z"
+    "pushed_at": "2026-10-03T16:10:39Z"
   },
   {
     "title": "igugyj",
@@ -202,22 +186,6 @@
     ],
     "stars": 0,
     "pushed_at": "2026-09-05T01:37:05Z"
-  },
-  {
-    "title": "image_show",
-    "description": "[Cross-Platform] Full-Screen Playback of All Images in a Directory 【跨平台】全屏播放某个目录内所有图片",
-    "detail": "[Cross-Platform] Full-Screen Playback of All Images in a Directory 【跨平台】全屏播放某个目录内所有图片",
-    "tags": [
-      "Python"
-    ],
-    "links": [
-      {
-        "label": "GitHub",
-        "url": "https://github.com/igugyj/image_show"
-      }
-    ],
-    "stars": 0,
-    "pushed_at": "2026-06-12T16:16:42Z"
   },
   {
     "title": "lx_console_lyrics",
@@ -265,7 +233,7 @@
       }
     ],
     "stars": 0,
-    "pushed_at": "2026-06-11T08:32:27Z"
+    "pushed_at": "2026-10-02T18:53:52Z"
   },
   {
     "title": "MyBlog-docs",
@@ -295,7 +263,7 @@
       }
     ],
     "stars": 0,
-    "pushed_at": "2026-09-26T08:46:24Z"
+    "pushed_at": "2026-10-02T18:54:01Z"
   },
   {
     "title": "MyBlog-posts",
@@ -325,7 +293,7 @@
       }
     ],
     "stars": 0,
-    "pushed_at": "2026-09-16T06:46:44Z"
+    "pushed_at": "2026-10-03T16:09:55Z"
   },
   {
     "title": "MyKokoro",
@@ -357,7 +325,7 @@
       }
     ],
     "stars": 0,
-    "pushed_at": "2026-09-20T02:22:46Z"
+    "pushed_at": "2026-09-27T02:31:29Z"
   },
   {
     "title": "ncmapi",
@@ -434,8 +402,8 @@
         "url": "https://github.com/igugyj/Pelr"
       }
     ],
-    "stars": 2,
-    "pushed_at": "2026-09-26T11:09:15Z"
+    "stars": 3,
+    "pushed_at": "2026-10-03T15:49:03Z"
   },
   {
     "title": "Pelr_tts_tr",
@@ -513,7 +481,7 @@
       }
     ],
     "stars": 0,
-    "pushed_at": "2026-09-27T02:09:36Z"
+    "pushed_at": "2026-10-04T03:07:25Z"
   },
   {
     "title": "simpleWinWebManager",
@@ -610,21 +578,5 @@
     ],
     "stars": 1,
     "pushed_at": "2026-08-14T10:19:33Z"
-  },
-  {
-    "title": "WebDavServer",
-    "description": "A lightweight WebDAV service management tool based on Python + PySide6, providing a visual configuration interface with cross-platform support.",
-    "detail": "A lightweight WebDAV service management tool based on Python + PySide6, providing a visual configuration interface with cross-platform support.",
-    "tags": [
-      "Python"
-    ],
-    "links": [
-      {
-        "label": "GitHub",
-        "url": "https://github.com/igugyj/WebDavServer"
-      }
-    ],
-    "stars": 0,
-    "pushed_at": "2026-08-01T08:34:52Z"
   }
 ]
