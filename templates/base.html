@@ -22,7 +22,7 @@
           <a href="{{ item.anchor }}" class="nav-link">{{ item.label }}</a>
           {% endfor %}
         </div>
-        <button id="theme-toggle" class="theme-btn" aria-label="切换主题">
+        <button id="theme-toggle" class="theme-btn" aria-label="Toggle theme">
           <i data-feather="sun" class="sun-icon"></i>
           <i data-feather="moon" class="moon-icon"></i>
         </button>
@@ -40,7 +40,7 @@
 
   <div id="work-modal" class="modal-overlay">
     <div class="modal">
-      <button class="modal-close" aria-label="关闭">
+      <button class="modal-close" aria-label="Close">
         <i data-feather="x"></i>
       </button>
       <div class="modal-image-wrapper" id="modal-image-wrapper">
@@ -50,12 +50,13 @@
         <h2 class="modal-title"></h2>
         <div class="modal-tags"></div>
         <p class="modal-description"></p>
+        <div class="modal-participation"></div>
         <div class="modal-links"></div>
       </div>
     </div>
   </div>
 
-  <button id="back-to-top" class="back-to-top" aria-label="回到顶部">
+  <button id="back-to-top" class="back-to-top" aria-label="Back to top">
     <i data-feather="arrow-up"></i>
   </button>
 

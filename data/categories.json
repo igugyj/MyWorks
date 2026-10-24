@@ -1,0 +1,141 @@
+[
+  {
+    "category": "Firefox",
+    "items": [
+      {
+        "title": "PTab",
+        "description": "A beautiful new tab page with a local video background.",
+        "links": [
+          {
+            "label": "Firefox Add-ons",
+            "url": "https://addons.mozilla.org/zh-CN/firefox/addon/ptab/"
+          }
+        ]
+      },
+      {
+        "title": "FocusFill",
+        "description": "Click a field to get a fill hint beside it. Fills saved personal info locally.",
+        "links": [
+          {
+            "label": "Firefox Add-ons",
+            "url": "https://addons.mozilla.org/zh-CN/firefox/addon/focusfill/"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "category": "VSCode",
+    "items": [
+      {
+        "title": "CompareCleaner",
+        "description": "Scan your project for unreferenced files and safely clean them up.",
+        "links": [
+          {
+            "label": "Marketplace",
+            "url": "https://marketplace.visualstudio.com/items?itemName=Pfolg26.comparecleaner"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "category": "TrafficMonitor",
+    "items": [
+      {
+        "title": "TrafficMonitorLyricPlugin",
+        "description": "歌词显示插件，实时获取 LX Music 正在播放的歌词并渲染到任务栏，基于 TrafficMonitor v7 插件接口。",
+        "links": [
+          {
+            "label": "GitHub",
+            "url": "https://github.com/igugyj/TrafficMonitorLyricPlugin"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "category": "DSH",
+    "items": [
+      {
+        "title": "project-ai-docs",
+        "description": "通用项目 AI 文档协议 skill：每项目一份 docs/.ai/ 认知库，agent 会话先读索引再动手、改动必回写，防上下文涣散、保项目认知精细。",
+        "links": [
+          {
+            "label": "npm",
+            "url": "https://www.npmjs.com/package/project-ai-docs"
+          },
+          {
+            "label": "GitHub",
+            "url": "https://github.com/igugyj/project-ai-docs"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "category": "GreasyFork",
+    "items": [
+      {
+        "title": "AdGuardLogoOptimizer",
+        "description": "移除 AdGuard浏览器助手 在每个页面的 logo，通过删除其闭合 Shadow DOM 的宿主元素",
+        "links": [
+          {
+            "label": "GreasyFork",
+            "url": "https://greasyfork.org/scripts/584543"
+          }
+        ]
+      },
+      {
+        "title": "AutoSign",
+        "description": "自动签到框架",
+        "links": [
+          {
+            "label": "GreasyFork",
+            "url": "https://greasyfork.org/scripts/586988"
+          }
+        ]
+      },
+      {
+        "title": "BackToTop&Down",
+        "description": "便捷的全局回到顶部/底部按钮",
+        "links": [
+          {
+            "label": "GreasyFork",
+            "url": "https://greasyfork.org/scripts/589067"
+          }
+        ]
+      },
+      {
+        "title": "miyousheAutoLike",
+        "description": "Auto like posts on miyoushe, toggle with L key",
+        "links": [
+          {
+            "label": "GreasyFork",
+            "url": "https://greasyfork.org/scripts/592801"
+          }
+        ]
+      },
+      {
+        "title": "云上成信文档下载助手",
+        "description": "抓取云上成信课程中用ONLYOFFICE渲染的文件并提供下载选项",
+        "links": [
+          {
+            "label": "GreasyFork",
+            "url": "https://greasyfork.org/scripts/596806"
+          }
+        ]
+      },
+      {
+        "title": "Github Stargazers",
+        "description": "在仓库头部 Star 按钮旁加一个 Stargazers 按钮，点击进入 Stargazers 页面",
+        "links": [
+          {
+            "label": "GreasyFork",
+            "url": "https://greasyfork.org/scripts/597640"
+          }
+        ]
+      }
+    ]
+  }
+]

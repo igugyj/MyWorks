@@ -7,6 +7,14 @@
       "anchor": "#works"
     },
     {
+      "label": "Ecosystems",
+      "anchor": "#ecosystems"
+    },
+    {
+      "label": "Contributions",
+      "anchor": "#contributions"
+    },
+    {
       "label": "About",
       "anchor": "#about"
     },
@@ -18,7 +26,8 @@
   "sections": {
     "works": "Works",
     "about": "About",
-    "links": "Links"
+    "links": "Links",
+    "contributions": "Contributions"
   },
   "about": "热爱开源与技术创作，持续探索 C++、Python、基础前端与桌面应用开发。",
   "links": [

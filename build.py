@@ -56,6 +56,61 @@ def filter_works(works, ignore):
     return result
 
 
+def normalize_item(item):
+    out = dict(item)
+    out.setdefault("title", "")
+    desc = out.get("description") or out["title"]
+    out["description"] = desc
+    out.setdefault("detail", desc)
+    out.setdefault("tags", [])
+    out.setdefault("links", [])
+    return out
+
+
+def load_categories():
+    data = load_json("categories.json")
+    if not data:
+        return []
+    result = []
+    for cat in data:
+        name = cat.get("category")
+        items = [normalize_item(i) for i in cat.get("items", []) if i.get("title")]
+        if not name or not items:
+            continue
+        result.append({"category": name, "items": items})
+    return result
+
+
+def load_contributions():
+    data = load_json("participation.json")
+    if not data:
+        return []
+    ignore = load_ignore() or {}
+    ignore_owners = set(ignore.get("owners", []))
+    ignore_repos = set(ignore.get("repos", []))
+    result = []
+    for c in data:
+        name = c.get("title", "")
+        owner = name.split("/", 1)[0]
+        if owner in ignore_owners or name in ignore_repos:
+            continue
+        result.append(normalize_item(c))
+    result.sort(key=lambda c: c.get("last_activity", ""), reverse=True)
+    return result
+
+
+def build_modal_data(works, categories, contributions):
+    modal = [normalize_item(w) for w in works]
+    for cat in categories:
+        for item in cat["items"]:
+            item["index"] = len(modal)
+            modal.append(item)
+    for c in contributions:
+        c["index"] = len(modal)
+        modal.append(c)
+    return modal
+
+
 def sort_works(works):
     from datetime import datetime, timezone
     def score(w):
@@ -88,9 +143,15 @@ def main():
     works = filter_works(works, load_ignore())
     works = sort_works(works)
 
+    categories = load_categories()
+    contributions = load_contributions()
+    modal_data = build_modal_data(works, categories, contributions)
+
     env = Environment(loader=FileSystemLoader(TEMPLATES_DIR))
     template = env.get_template("index.html")
-    html = template.render(site=site, works=works, **site)
+    html = template.render(site=site, works=works, categories=categories,
+                           contributions=contributions,
+                           modal_data=modal_data, **site)
 
     if OUTPUT_DIR.exists():
         shutil.rmtree(OUTPUT_DIR)

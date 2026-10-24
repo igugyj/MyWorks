@@ -1,17 +1,23 @@
 {
-    "titles": [
-      "MyBlog-demos",
-      "MyBlog-docs",
-      "MyBlog-moments",
-      "MyBlog-posts",
-      "MyBlog-spec",
-      "igugyj",
-"igugyj.github.io",
-      "amap-coordinate-picking",
-      "pblog-comments"
-    ],
-    "urls": [
-      "https://github.com/igugyj/EMO",
-      "https://github.com/igugyj/StickersManager"
-    ]
+  "owners": [
+    "igugyj",
+    "PfolgCodeDump"
+  ],
+  "repos": [],
+  "titles": [
+    "MyBlog-demos",
+    "MyBlog-docs",
+    "MyBlog-moments",
+    "MyBlog-posts",
+    "MyBlog-spec",
+    "igugyj",
+    "MyWorks",
+    "igugyj.github.io",
+    "amap-coordinate-picking",
+    "pblog-comments"
+  ],
+  "urls": [
+    "https://github.com/igugyj/EMO",
+    "https://github.com/igugyj/StickersManager"
+  ]
 }

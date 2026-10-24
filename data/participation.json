@@ -1,0 +1,588 @@
+[
+  {
+    "title": "TreapGoGo/deepseek-whale-girl",
+    "description": "由社区共同维护的鲸鱼娘二创资源库，整理角色参考图、生成提示词、社区作品与相关项目，为创作者提供方便易用的参考与灵感。本项目为非官方社区项目，不代表 DeepSeek 官方立场。",
+    "detail": "Participation: 1 issue",
+    "tags": [
+      "Issue ×1"
+    ],
+    "links": [
+      {
+        "label": "GitHub",
+        "url": "https://github.com/TreapGoGo/deepseek-whale-girl"
+      }
+    ],
+    "participation": [
+      {
+        "type": "issue",
+        "title": "[社区作品]",
+        "url": "https://github.com/TreapGoGo/deepseek-whale-girl/issues/73",
+        "state": "open",
+        "date": "2026-10-23T13:45:46Z"
+      }
+    ],
+    "last_activity": "2026-10-23T13:45:46Z"
+  },
+  {
+    "title": "oldsento/bilibili-client-software-collection",
+    "description": "第三方开源B站客户端收集",
+    "detail": "Participation: 1 issue",
+    "tags": [
+      "Issue ×1",
+      "Fork"
+    ],
+    "links": [
+      {
+        "label": "GitHub",
+        "url": "https://github.com/oldsento/bilibili-client-software-collection"
+      }
+    ],
+    "participation": [
+      {
+        "type": "issue",
+        "title": "BBPlayer & bilisound 算吗",
+        "url": "https://github.com/oldsento/bilibili-client-software-collection/issues/7",
+        "state": "closed",
+        "date": "2026-10-03T08:05:52Z"
+      }
+    ],
+    "last_activity": "2026-10-03T08:05:52Z"
+  },
+  {
+    "title": "OpenCUIT/kczxDownloader",
+    "description": "云上成信文档下载助手",
+    "detail": "Participation: 2 PR (2 merged)",
+    "tags": [
+      "PR ×2 (2 merged)",
+      "Fork"
+    ],
+    "links": [
+      {
+        "label": "GitHub",
+        "url": "https://github.com/OpenCUIT/kczxDownloader"
+      }
+    ],
+    "participation": [
+      {
+        "type": "pr",
+        "title": " fix: remove name query to improve user experience",
+        "url": "https://github.com/OpenCUIT/kczxDownloader/pull/2",
+        "state": "merged",
+        "date": "2026-09-22T07:24:56Z"
+      },
+      {
+        "type": "pr",
+        "title": "refactor(Organization): PfolgCodeDump2OpenCUIT",
+        "url": "https://github.com/OpenCUIT/kczxDownloader/pull/1",
+        "state": "merged",
+        "date": "2026-09-22T02:08:23Z"
+      }
+    ],
+    "last_activity": "2026-09-22T07:24:56Z"
+  },
+  {
+    "title": "Predidit/Kazumi",
+    "description": "基于自定义规则的番剧采集APP，支持流媒体在线观看，支持弹幕，支持实时超分辨率。",
+    "detail": "Participation: 2 issues",
+    "tags": [
+      "Issue ×2"
+    ],
+    "links": [
+      {
+        "label": "GitHub",
+        "url": "https://github.com/Predidit/Kazumi"
+      }
+    ],
+    "participation": [
+      {
+        "type": "issue",
+        "title": "[feat]: 添加弹幕屏蔽关键词后清空输入框",
+        "url": "https://github.com/Predidit/Kazumi/issues/2529",
+        "state": "closed",
+        "date": "2026-09-02T04:59:04Z"
+      },
+      {
+        "type": "issue",
+        "title": "[Bug]: 规则更新时提示消息显示时间极短",
+        "url": "https://github.com/Predidit/Kazumi/issues/2431",
+        "state": "closed",
+        "date": "2026-08-04T19:25:36Z"
+      }
+    ],
+    "last_activity": "2026-09-02T04:59:04Z"
+  },
+  {
+    "title": "djmh1793225009/LineStickerEmojiDownloader",
+    "description": "这个项目可以用来下载LINE上的贴纸和emoji，同时支持动图和静态图，以及批量下载的操作。本项目禁止用于非法用途，禁止贩卖。如果喜欢这些stickers，请支持正版line贴纸",
+    "detail": "Participation: 1 PR (1 merged)",
+    "tags": [
+      "PR ×1 (1 merged)",
+      "Fork"
+    ],
+    "links": [
+      {
+        "label": "GitHub",
+        "url": "https://github.com/djmh1793225009/LineStickerEmojiDownloader"
+      }
+    ],
+    "participation": [
+      {
+        "type": "pr",
+        "title": "refactor: 重构项目",
+        "url": "https://github.com/djmh1793225009/LineStickerEmojiDownloader/pull/2",
+        "state": "merged",
+        "date": "2026-04-15T14:25:19Z"
+      }
+    ],
+    "last_activity": "2026-04-15T14:25:19Z"
+  },
+  {
+    "title": "bestK/TMFetchPlugin",
+    "description": "Generic HTTP/JSON fetcher plugin for TrafficMonitor  show any REST API field on the taskbar via a free-form template",
+    "detail": "Participation: 1 issue",
+    "tags": [
+      "Issue ×1"
+    ],
+    "links": [
+      {
+        "label": "GitHub",
+        "url": "https://github.com/bestK/TMFetchPlugin"
+      }
+    ],
+    "participation": [
+      {
+        "type": "issue",
+        "title": "[Feat] 自适应宽度",
+        "url": "https://github.com/bestK/TMFetchPlugin/issues/1",
+        "state": "open",
+        "date": "2026-08-14T09:08:59Z"
+      }
+    ],
+    "last_activity": "2026-08-14T09:08:59Z"
+  },
+  {
+    "title": "WEP-56/taoran-blog",
+    "description": "Participation: 1 issue",
+    "detail": "Participation: 1 issue",
+    "tags": [
+      "Issue ×1"
+    ],
+    "links": [
+      {
+        "label": "GitHub",
+        "url": "https://github.com/WEP-56/taoran-blog"
+      }
+    ],
+    "participation": [
+      {
+        "type": "issue",
+        "title": "【Friend Link Request】igugyj's blog",
+        "url": "https://github.com/WEP-56/taoran-blog/issues/1",
+        "state": "closed",
+        "date": "2026-06-12T12:54:34Z"
+      }
+    ],
+    "last_activity": "2026-06-12T12:54:34Z"
+  },
+  {
+    "title": "srbhr/Resume-Matcher",
+    "description": "The #1 AI Harness for Building Resumes, PDFs, Cover Letters & more, locally with 100+ LLMs support.",
+    "detail": "Participation: 3 issues",
+    "tags": [
+      "Issue ×3"
+    ],
+    "links": [
+      {
+        "label": "GitHub",
+        "url": "https://github.com/srbhr/Resume-Matcher"
+      }
+    ],
+    "participation": [
+      {
+        "type": "issue",
+        "title": "[Feature]: AI optimization for all resume modules",
+        "url": "https://github.com/srbhr/Resume-Matcher/issues/852",
+        "state": "open",
+        "date": "2026-06-05T14:28:13Z"
+      },
+      {
+        "type": "issue",
+        "title": "[Bug]: Simple list does not preserve line breaks or render as an automatic bullet list",
+        "url": "https://github.com/srbhr/Resume-Matcher/issues/851",
+        "state": "open",
+        "date": "2026-06-05T14:17:00Z"
+      },
+      {
+        "type": "issue",
+        "title": "[Bug]: Edit mode toggle states not persisted after saving",
+        "url": "https://github.com/srbhr/Resume-Matcher/issues/850",
+        "state": "closed",
+        "date": "2026-06-05T14:09:47Z"
+      }
+    ],
+    "last_activity": "2026-06-05T14:28:13Z"
+  },
+  {
+    "title": "epoch-lab/cuit-guide",
+    "description": "CUIT 指南",
+    "detail": "Participation: 2 PR (2 merged)",
+    "tags": [
+      "PR ×2 (2 merged)",
+      "Fork"
+    ],
+    "links": [
+      {
+        "label": "GitHub",
+        "url": "https://github.com/epoch-lab/cuit-guide"
+      }
+    ],
+    "participation": [
+      {
+        "type": "pr",
+        "title": "refactor: desktop modal to toast",
+        "url": "https://github.com/epoch-lab/cuit-guide/pull/110",
+        "state": "merged",
+        "date": "2026-07-14T16:27:23Z"
+      },
+      {
+        "type": "pr",
+        "title": "docs: friend link request",
+        "url": "https://github.com/epoch-lab/cuit-guide/pull/102",
+        "state": "merged",
+        "date": "2026-05-17T13:23:52Z"
+      }
+    ],
+    "last_activity": "2026-07-14T16:27:23Z"
+  },
+  {
+    "title": "ShiGuangSchedule/shiguang_warehouse",
+    "description": "本仓库用于 shiguangschedule 适配脚本的管理和测试。所有适配脚本将集中存放于此，方便软件拉取和测试",
+    "detail": "Participation: 3 PR (2 merged)",
+    "tags": [
+      "PR ×3 (2 merged)",
+      "Fork"
+    ],
+    "links": [
+      {
+        "label": "GitHub",
+        "url": "https://github.com/ShiGuangSchedule/shiguang_warehouse"
+      }
+    ],
+    "participation": [
+      {
+        "type": "pr",
+        "title": "chore: 更新 CUIT 适配信息",
+        "url": "https://github.com/ShiGuangSchedule/shiguang_warehouse/pull/396",
+        "state": "merged",
+        "date": "2026-07-16T09:30:06Z"
+      },
+      {
+        "type": "pr",
+        "title": "Merge b dev to main test successfully",
+        "url": "https://github.com/ShiGuangSchedule/shiguang_warehouse/pull/234",
+        "state": "closed",
+        "date": "2026-04-17T10:05:12Z"
+      },
+      {
+        "type": "pr",
+        "title": "add: 成都信息工程大学(cuit) 教务适配",
+        "url": "https://github.com/ShiGuangSchedule/shiguang_warehouse/pull/233",
+        "state": "merged",
+        "date": "2026-04-17T07:43:45Z"
+      }
+    ],
+    "last_activity": "2026-07-16T09:30:06Z"
+  },
+  {
+    "title": "IronKinoko/agefans-enhance",
+    "description": "增强 agefans 等网站播放功能，实现自动换集、画中画、历史记录、断点续播、弹幕等功能",
+    "detail": "Participation: 1 issue",
+    "tags": [
+      "Issue ×1"
+    ],
+    "links": [
+      {
+        "label": "GitHub",
+        "url": "https://github.com/IronKinoko/agefans-enhance"
+      }
+    ],
+    "participation": [
+      {
+        "type": "issue",
+        "title": "考虑添加油猴菜单",
+        "url": "https://github.com/IronKinoko/agefans-enhance/issues/113",
+        "state": "closed",
+        "date": "2026-07-10T17:44:48Z"
+      }
+    ],
+    "last_activity": "2026-07-10T17:44:48Z"
+  },
+  {
+    "title": "andream7/cuit_sharing",
+    "description": "cuit期末互助仓库 ｜ 成都信息工程大学课程共享计划",
+    "detail": "Participation: 1 PR",
+    "tags": [
+      "PR ×1",
+      "Fork"
+    ],
+    "links": [
+      {
+        "label": "GitHub",
+        "url": "https://github.com/andream7/cuit_sharing"
+      }
+    ],
+    "participation": [
+      {
+        "type": "pr",
+        "title": "Add 中国天气 2025&2026",
+        "url": "https://github.com/andream7/cuit_sharing/pull/135",
+        "state": "open",
+        "date": "2026-07-05T12:10:06Z"
+      }
+    ],
+    "last_activity": "2026-07-05T12:10:06Z"
+  },
+  {
+    "title": "ReviveUnblockNCMInstaller/RevivedSource",
+    "description": "向插件商店中添加 Revive 源，包含无法上架至插件商店的某些插件。",
+    "detail": "Participation: 1 issue",
+    "tags": [
+      "Issue ×1"
+    ],
+    "links": [
+      {
+        "label": "GitHub",
+        "url": "https://github.com/ReviveUnblockNCMInstaller/RevivedSource"
+      }
+    ],
+    "participation": [
+      {
+        "type": "issue",
+        "title": "【申请入源】ncmapi",
+        "url": "https://github.com/ReviveUnblockNCMInstaller/RevivedSource/issues/6",
+        "state": "open",
+        "date": "2026-06-11T07:32:46Z"
+      }
+    ],
+    "last_activity": "2026-06-11T07:32:46Z"
+  },
+  {
+    "title": "anomalyco/opencode",
+    "description": "The open source coding agent.",
+    "detail": "Participation: 1 issue",
+    "tags": [
+      "Issue ×1"
+    ],
+    "links": [
+      {
+        "label": "GitHub",
+        "url": "https://github.com/anomalyco/opencode"
+      }
+    ],
+    "participation": [
+      {
+        "type": "issue",
+        "title": "[Bug]：VSCode-opencode 复制中文乱码 Copying Chinese text from VSCode-opencode results in garbled characters",
+        "url": "https://github.com/anomalyco/opencode/issues/31311",
+        "state": "closed",
+        "date": "2026-06-08T04:52:07Z"
+      }
+    ],
+    "last_activity": "2026-06-08T04:52:07Z"
+  },
+  {
+    "title": "zhongyang219/TrafficMonitorPlugins",
+    "description": "用于TrafficMonitor的插件",
+    "detail": "Participation: 1 issue",
+    "tags": [
+      "Issue ×1"
+    ],
+    "links": [
+      {
+        "label": "GitHub",
+        "url": "https://github.com/zhongyang219/TrafficMonitorPlugins"
+      }
+    ],
+    "participation": [
+      {
+        "type": "issue",
+        "title": "【Docs Request】Add TrafficMonitorLyricPlugin",
+        "url": "https://github.com/zhongyang219/TrafficMonitorPlugins/issues/161",
+        "state": "open",
+        "date": "2026-06-12T05:20:50Z"
+      }
+    ],
+    "last_activity": "2026-06-12T05:20:50Z"
+  },
+  {
+    "title": "BetterNCM/BetterNCM-Plugins",
+    "description": "BetterNCM 的插件库",
+    "detail": "Participation: 1 PR",
+    "tags": [
+      "PR ×1",
+      "Fork"
+    ],
+    "links": [
+      {
+        "label": "GitHub",
+        "url": "https://github.com/BetterNCM/BetterNCM-Plugins"
+      }
+    ],
+    "participation": [
+      {
+        "type": "pr",
+        "title": "add ncmapi",
+        "url": "https://github.com/BetterNCM/BetterNCM-Plugins/pull/719",
+        "state": "closed",
+        "date": "2026-06-10T16:38:30Z"
+      }
+    ],
+    "last_activity": "2026-06-10T16:38:30Z"
+  },
+  {
+    "title": "fcitx5-android/fcitx5-android",
+    "description": "Fcitx5 input method framework and engines ported to Android",
+    "detail": "Participation: 1 PR",
+    "tags": [
+      "PR ×1",
+      "Fork"
+    ],
+    "links": [
+      {
+        "label": "GitHub",
+        "url": "https://github.com/fcitx5-android/fcitx5-android"
+      }
+    ],
+    "participation": [
+      {
+        "type": "pr",
+        "title": "feat: Calculator candidates",
+        "url": "https://github.com/fcitx5-android/fcitx5-android/pull/903",
+        "state": "closed",
+        "date": "2026-06-04T11:01:25Z"
+      }
+    ],
+    "last_activity": "2026-06-04T11:01:25Z"
+  },
+  {
+    "title": "DavidVentura/offline-translator",
+    "description": "Use Firefox Translation Models for on-device translation on Android",
+    "detail": "Participation: 1 issue",
+    "tags": [
+      "Issue ×1"
+    ],
+    "links": [
+      {
+        "label": "GitHub",
+        "url": "https://github.com/DavidVentura/offline-translator"
+      }
+    ],
+    "participation": [
+      {
+        "type": "issue",
+        "title": "[bug] hard to see the clear&paste button in light theme",
+        "url": "https://github.com/DavidVentura/offline-translator/issues/141",
+        "state": "closed",
+        "date": "2026-04-20T12:55:06Z"
+      }
+    ],
+    "last_activity": "2026-04-20T12:55:06Z"
+  },
+  {
+    "title": "durgeshsamariya/awesome-github-profile-readme-templates",
+    "description": "This repository contains best profile readme's for your reference. ",
+    "detail": "Participation: 1 PR",
+    "tags": [
+      "PR ×1",
+      "Fork"
+    ],
+    "links": [
+      {
+        "label": "GitHub",
+        "url": "https://github.com/durgeshsamariya/awesome-github-profile-readme-templates"
+      }
+    ],
+    "participation": [
+      {
+        "type": "pr",
+        "title": "Added template for username: igugyj",
+        "url": "https://github.com/durgeshsamariya/awesome-github-profile-readme-templates/pull/594",
+        "state": "open",
+        "date": "2026-05-26T10:38:56Z"
+      }
+    ],
+    "last_activity": "2026-05-26T10:38:56Z"
+  },
+  {
+    "title": "wyh1359498723/SystemAudioSpectrum",
+    "description": "基于 Qt + WASAPI + kissfft 的系统音频频谱可视化工具。实时从 Windows 默认输出设备进行环回采集，执行 0–20kHz 频率范围的 FFT 分析，并以 20 段彩色柱状图在独立渲染线程中动态绘制，主线程仅用于窗口显示（不参与音频处理与绘制）。",
+    "detail": "Participation: 1 issue",
+    "tags": [
+      "Issue ×1"
+    ],
+    "links": [
+      {
+        "label": "GitHub",
+        "url": "https://github.com/wyh1359498723/SystemAudioSpectrum"
+      }
+    ],
+    "participation": [
+      {
+        "type": "issue",
+        "title": "Request to Add Project Open Source License",
+        "url": "https://github.com/wyh1359498723/SystemAudioSpectrum/issues/1",
+        "state": "open",
+        "date": "2026-04-21T06:34:50Z"
+      }
+    ],
+    "last_activity": "2026-04-21T06:34:50Z"
+  },
+  {
+    "title": "ShiGuangSchedule/shiguangschedule",
+    "description": "一款开源、无广告、极简的课程表 APP，支持教务导入",
+    "detail": "Participation: 1 issue",
+    "tags": [
+      "Issue ×1"
+    ],
+    "links": [
+      {
+        "label": "GitHub",
+        "url": "https://github.com/ShiGuangSchedule/shiguangschedule"
+      }
+    ],
+    "participation": [
+      {
+        "type": "issue",
+        "title": "【Feature Request】桌面小组件垂直滚动",
+        "url": "https://github.com/ShiGuangSchedule/shiguangschedule/issues/75",
+        "state": "closed",
+        "date": "2026-04-19T07:15:53Z"
+      }
+    ],
+    "last_activity": "2026-04-19T07:15:53Z"
+  },
+  {
+    "title": "sqmw/MFCMouseEffect",
+    "description": "跨平台鼠标特效与输入可视化引擎：点击/轨迹/滚轮/悬停等效果，输入指示器叠加层，手势→快捷键自动化映射，可扩展 WASM 插件。 Cross-platform mouse effects & input visualization engine: click/trail/scroll/hover effects, indicator overlays, gesture→hotkey automation, extensible WASM plugins.",
+    "detail": "Participation: 1 issue",
+    "tags": [
+      "Issue ×1"
+    ],
+    "links": [
+      {
+        "label": "GitHub",
+        "url": "https://github.com/sqmw/MFCMouseEffect"
+      }
+    ],
+    "participation": [
+      {
+        "type": "issue",
+        "title": "【BUG】无法定位程序输入点",
+        "url": "https://github.com/sqmw/MFCMouseEffect/issues/12",
+        "state": "closed",
+        "date": "2026-02-15T05:33:14Z"
+      }
+    ],
+    "last_activity": "2026-02-15T05:33:14Z"
+  }
+]

@@ -66,6 +66,46 @@
       linksContainer.appendChild(a);
     });
 
+    var listContainer = modal.querySelector('.modal-participation');
+    listContainer.innerHTML = '';
+    if (work.participation && work.participation.length) {
+      listContainer.style.display = '';
+      work.participation.forEach(function (p) {
+        var a = document.createElement('a');
+        a.href = p.url;
+        a.className = 'participation-item';
+        a.target = '_blank';
+        a.rel = 'noopener noreferrer';
+
+        var badge = document.createElement('span');
+        badge.className = 'participation-badge ' + (p.type === 'pr' ? 'badge-pr' : 'badge-issue');
+        badge.textContent = p.type === 'pr' ? 'PR' : 'Issue';
+
+        var title = document.createElement('span');
+        title.className = 'participation-title';
+        title.textContent = p.title;
+
+        var state = document.createElement('span');
+        state.className = 'participation-state';
+        state.textContent = p.state;
+        if (p.state === 'merged' || p.state === 'closed') {
+          state.classList.add('state-done');
+        }
+
+        var date = document.createElement('span');
+        date.className = 'participation-date';
+        date.textContent = (p.date || '').slice(0, 10);
+
+        a.appendChild(badge);
+        a.appendChild(title);
+        a.appendChild(state);
+        a.appendChild(date);
+        listContainer.appendChild(a);
+      });
+    } else {
+      listContainer.style.display = 'none';
+    }
+
     modal.classList.add('active');
     document.body.style.overflow = 'hidden';
     feather.replace();

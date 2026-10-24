@@ -31,6 +31,58 @@
   </div>
 </section>
 
+{% if categories %}
+<section class="ecosystems" id="ecosystems">
+  <div class="container">
+    {% for cat in categories %}
+    <div class="category-group">
+      <h2 class="category-title">{{ cat.category }}</h2>
+      <div class="works-grid">
+        {% for item in cat['items'] %}
+        <article class="work-card" data-index="{{ item.index }}">
+          <div class="card-body">
+            <h3 class="card-title">{{ item.title }}</h3>
+            {% if item.tags and item.tags|length > 0 %}
+            <div class="card-tags">
+              {% for tag in item.tags %}
+              <span class="tag">{{ tag }}</span>
+              {% endfor %}
+            </div>
+            {% endif %}
+            <p class="card-description">{{ item.description }}</p>
+          </div>
+        </article>
+        {% endfor %}
+      </div>
+    </div>
+    {% endfor %}
+  </div>
+</section>
+{% endif %}
+
+{% if contributions %}
+<section class="contributions" id="contributions">
+  <div class="container">
+    <h2 class="section-title">{{ site.sections.contributions }}</h2>
+    <div class="works-grid">
+      {% for c in contributions %}
+      <article class="work-card" data-index="{{ c.index }}">
+        <div class="card-body">
+          <h3 class="card-title">{{ c.title }}</h3>
+          <div class="card-tags">
+            {% for tag in c.tags %}
+            <span class="tag">{{ tag }}</span>
+            {% endfor %}
+          </div>
+          <p class="card-description">{{ c.description }}</p>
+        </div>
+      </article>
+      {% endfor %}
+    </div>
+  </div>
+</section>
+{% endif %}
+
 <section class="about" id="about">
   <div class="container">
     <h2 class="section-title">{{ site.sections.about }}</h2>
@@ -52,5 +104,5 @@
   </div>
 </section>
 
-<script id="works-data" type="application/json">{{ works | tojson }}</script>
+<script id="works-data" type="application/json">{{ modal_data | tojson }}</script>
 {% endblock %}
