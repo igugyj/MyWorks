@@ -90,6 +90,27 @@
   </div>
 </section>
 
+{% if mentors %}
+<section class="mentors" id="mentors">
+  <div class="container">
+    <h2 class="section-title">{{ site.sections.mentors }}</h2>
+    <div class="mentors-grid">
+      {% for m in mentors %}
+      <a class="mentor-card" href="{{ m.link }}" target="_blank" rel="noopener noreferrer">
+        {% if m.avatar %}
+        <img class="mentor-avatar" src="{{ m.avatar }}" alt="{{ m.name }}" loading="lazy">
+        {% endif %}
+        <span class="mentor-name">{{ m.name }}</span>
+      </a>
+      {% endfor %}
+    </div>
+    <p class="mentors-note">
+      以上仅为单向学习与知识参考：我与各位导师素未谋面、没有交集，他们仅以公开内容对我产生单方面的知识帮助。
+    </p>
+  </div>
+</section>
+{% endif %}
+
 <section class="links-section" id="links">
   <div class="container">
     <h2 class="section-title">{{ site.sections.links }}</h2>

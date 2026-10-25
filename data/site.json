@@ -19,6 +19,10 @@
       "anchor": "#about"
     },
     {
+      "label": "Mentors",
+      "anchor": "#mentors"
+    },
+    {
       "label": "Links",
       "anchor": "#links"
     }
@@ -27,7 +31,8 @@
     "works": "Works",
     "about": "About",
     "links": "Links",
-    "contributions": "Contributions"
+    "contributions": "Contributions",
+    "mentors": "Mentors"
   },
   "about": "热爱开源与技术创作，持续探索 C++、Python、基础前端与桌面应用开发。",
   "links": [

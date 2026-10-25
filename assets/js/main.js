@@ -2,6 +2,8 @@
   'use strict';
 
   var themeToggle = document.getElementById('theme-toggle');
+  var navToggle = document.getElementById('nav-toggle');
+  var navMenu = document.getElementById('nav-menu');
   var modal = document.getElementById('work-modal');
   var modalClose = modal.querySelector('.modal-close');
   var backToTop = document.getElementById('back-to-top');
@@ -26,6 +28,30 @@
   themeToggle.addEventListener('click', function () {
     var current = document.documentElement.getAttribute('data-theme');
     setTheme(current === 'dark' ? 'light' : 'dark');
+  });
+
+  function setMenuOpen(open) {
+    navMenu.classList.toggle('open', open);
+    navToggle.classList.toggle('open', open);
+    navToggle.setAttribute('aria-expanded', open ? 'true' : 'false');
+  }
+
+  navToggle.addEventListener('click', function (e) {
+    e.stopPropagation();
+    setMenuOpen(!navMenu.classList.contains('open'));
+  });
+
+  navMenu.querySelectorAll('.nav-menu-link').forEach(function (link) {
+    link.addEventListener('click', function () {
+      setMenuOpen(false);
+    });
+  });
+
+  document.addEventListener('click', function (e) {
+    if (navMenu.classList.contains('open') &&
+        !navMenu.contains(e.target) && !navToggle.contains(e.target)) {
+      setMenuOpen(false);
+    }
   });
 
   function openModal(index) {
@@ -129,8 +155,12 @@
   });
 
   document.addEventListener('keydown', function (e) {
-    if (e.key === 'Escape' && modal.classList.contains('active')) {
-      closeModal();
+    if (e.key === 'Escape') {
+      if (modal.classList.contains('active')) {
+        closeModal();
+      } else if (navMenu.classList.contains('open')) {
+        setMenuOpen(false);
+      }
     }
   });
 

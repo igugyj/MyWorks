@@ -17,16 +17,20 @@
         <span>{{ site.title }}</span>
       </a>
       <div class="nav-right">
-        <div class="nav-links">
-          {% for item in nav %}
-          <a href="{{ item.anchor }}" class="nav-link">{{ item.label }}</a>
-          {% endfor %}
-        </div>
         <button id="theme-toggle" class="theme-btn" aria-label="Toggle theme">
           <i data-feather="sun" class="sun-icon"></i>
           <i data-feather="moon" class="moon-icon"></i>
         </button>
+        <button id="nav-toggle" class="theme-btn nav-toggle" aria-label="Menu" aria-expanded="false" aria-controls="nav-menu">
+          <i data-feather="menu" class="menu-icon"></i>
+          <i data-feather="x" class="close-icon"></i>
+        </button>
       </div>
+    </div>
+    <div class="nav-menu" id="nav-menu">
+      {% for item in nav %}
+      <a href="{{ item.anchor }}" class="nav-menu-link">{{ item.label }}</a>
+      {% endfor %}
     </div>
   </nav>
 

@@ -99,6 +99,20 @@ def load_contributions():
     return result
 
 
+def load_mentors():
+    data = load_json("mentors.json")
+    if not data:
+        return []
+    result = []
+    for m in data:
+        name = m.get("name")
+        link = m.get("link")
+        if not name or not link:
+            continue
+        result.append({"name": name, "avatar": m.get("avatar", ""), "link": link})
+    return result
+
+
 def build_modal_data(works, categories, contributions):
     modal = [normalize_item(w) for w in works]
     for cat in categories:
@@ -145,12 +159,13 @@ def main():
 
     categories = load_categories()
     contributions = load_contributions()
+    mentors = load_mentors()
     modal_data = build_modal_data(works, categories, contributions)
 
     env = Environment(loader=FileSystemLoader(TEMPLATES_DIR))
     template = env.get_template("index.html")
     html = template.render(site=site, works=works, categories=categories,
-                           contributions=contributions,
+                           contributions=contributions, mentors=mentors,
                            modal_data=modal_data, **site)
 
     if OUTPUT_DIR.exists():
