@@ -171,7 +171,7 @@
       }
     ],
     "stars": 1,
-    "pushed_at": "2026-10-21T10:57:06Z"
+    "pushed_at": "2026-10-29T13:44:01Z"
   },
   {
     "title": "igugyj",
@@ -185,14 +185,14 @@
       }
     ],
     "stars": 0,
-    "pushed_at": "2026-10-24T07:06:32Z"
+    "pushed_at": "2026-10-29T06:28:36Z"
   },
   {
     "title": "igugyj.github.io",
     "description": "static redirect service",
     "detail": "static redirect service",
     "tags": [
-      "Python"
+      "HTML"
     ],
     "links": [
       {
@@ -201,7 +201,7 @@
       }
     ],
     "stars": 0,
-    "pushed_at": "2026-09-05T01:37:05Z"
+    "pushed_at": "2026-10-29T13:49:24Z"
   },
   {
     "title": "keepAlive",
@@ -217,7 +217,7 @@
       }
     ],
     "stars": 0,
-    "pushed_at": "2026-10-24T07:09:47Z"
+    "pushed_at": "2026-10-29T06:28:37Z"
   },
   {
     "title": "lx_console_lyrics",
@@ -357,7 +357,7 @@
       }
     ],
     "stars": 0,
-    "pushed_at": "2026-10-25T13:22:34Z"
+    "pushed_at": "2026-10-30T06:21:31Z"
   },
   {
     "title": "ncmapi",
@@ -467,14 +467,14 @@
       }
     ],
     "stars": 0,
-    "pushed_at": "2026-08-16T14:17:14Z"
+    "pushed_at": "2026-10-29T09:36:31Z"
   },
   {
     "title": "PTab",
-    "description": "一个简单的以本地视频为背景的沉浸式浏览器新标签页扩展",
-    "detail": "一个简单的以本地视频为背景的沉浸式浏览器新标签页扩展",
+    "description": "Pure Video New Tab | 一个简单的以本地视频为背景的沉浸式浏览器新标签页扩展",
+    "detail": "Pure Video New Tab | 一个简单的以本地视频为背景的沉浸式浏览器新标签页扩展",
     "tags": [
-      "JavaScript"
+      "CSS"
     ],
     "links": [
       {
@@ -483,7 +483,7 @@
       }
     ],
     "stars": 1,
-    "pushed_at": "2026-06-10T12:39:47Z"
+    "pushed_at": "2026-10-29T06:55:34Z"
   },
   {
     "title": "QuickTray",
@@ -577,7 +577,7 @@
       }
     ],
     "stars": 2,
-    "pushed_at": "2026-10-25T12:12:01Z"
+    "pushed_at": "2026-10-26T09:47:19Z"
   },
   {
     "title": "SymbolSearch",
