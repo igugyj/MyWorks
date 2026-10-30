@@ -98,7 +98,7 @@
       {% for m in mentors %}
       <a class="mentor-card" href="{{ m.link }}" target="_blank" rel="noopener noreferrer">
         {% if m.avatar %}
-        <img class="mentor-avatar" src="{{ m.avatar }}" alt="{{ m.name }}" loading="lazy">
+        <img class="mentor-avatar" src="{{ m.avatar }}" alt="{{ m.name }}" referrerpolicy="no-referrer" loading="lazy">
         {% endif %}
         <span class="mentor-name">{{ m.name }}</span>
       </a>

@@ -77,7 +77,7 @@
     "category": "GreasyFork",
     "items": [
       {
-        "title": "AdGuardLogoOptimizer",
+        "title": "AdGuardLogoOptimizer [Archived]",
         "description": "移除 AdGuard浏览器助手 在每个页面的 logo，通过删除其闭合 Shadow DOM 的宿主元素",
         "links": [
           {
