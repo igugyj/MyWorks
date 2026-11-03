@@ -1,5 +1,101 @@
 [
   {
+    "title": "cmyyx/bili-comment-filter",
+    "description": "B站评论过滤器 - 根据关键词和正则表达式过滤Bilibili评论",
+    "detail": "Participation: 1 issue, 1 PR",
+    "tags": [
+      "Issue ×1",
+      "PR ×1",
+      "Fork"
+    ],
+    "links": [
+      {
+        "label": "GitHub",
+        "url": "https://github.com/cmyyx/bili-comment-filter"
+      }
+    ],
+    "participation": [
+      {
+        "type": "issue",
+        "title": "[Chore]: 考虑挂在greasyfork上吗",
+        "url": "https://github.com/cmyyx/bili-comment-filter/issues/2",
+        "state": "open",
+        "date": "2026-10-30T06:09:57Z"
+      },
+      {
+        "type": "pr",
+        "title": "chore: add icon",
+        "url": "https://github.com/cmyyx/bili-comment-filter/pull/1",
+        "state": "open",
+        "date": "2026-10-30T06:08:36Z"
+      }
+    ],
+    "last_activity": "2026-10-30T06:09:57Z"
+  },
+  {
+    "title": "andream7/cuit_sharing",
+    "description": "cuit期末互助仓库 ｜ 成都信息工程大学课程共享计划",
+    "detail": "Participation: 1 PR (1 merged)",
+    "tags": [
+      "PR ×1 (1 merged)",
+      "Fork"
+    ],
+    "links": [
+      {
+        "label": "GitHub",
+        "url": "https://github.com/andream7/cuit_sharing"
+      }
+    ],
+    "participation": [
+      {
+        "type": "pr",
+        "title": "Add 中国天气 2025&2026",
+        "url": "https://github.com/andream7/cuit_sharing/pull/135",
+        "state": "merged",
+        "date": "2026-07-05T12:10:06Z"
+      }
+    ],
+    "last_activity": "2026-07-05T12:10:06Z"
+  },
+  {
+    "title": "IxinorTyan/SuzuEmojy_Android",
+    "description": "A simple android app for organizing, browsing, and using your emoji collection.",
+    "detail": "Participation: 3 issues",
+    "tags": [
+      "Issue ×3"
+    ],
+    "links": [
+      {
+        "label": "GitHub",
+        "url": "https://github.com/IxinorTyan/SuzuEmojy_Android"
+      }
+    ],
+    "participation": [
+      {
+        "type": "issue",
+        "title": "[feat]: 导入功能异步支持",
+        "url": "https://github.com/IxinorTyan/SuzuEmojy_Android/issues/4",
+        "state": "open",
+        "date": "2026-10-26T03:37:15Z"
+      },
+      {
+        "type": "issue",
+        "title": "[feat]: 分类呈现按钮与输入法返回按钮区分",
+        "url": "https://github.com/IxinorTyan/SuzuEmojy_Android/issues/3",
+        "state": "closed",
+        "date": "2026-10-26T03:20:00Z"
+      },
+      {
+        "type": "issue",
+        "title": "[feat]: 分类预览图标支持",
+        "url": "https://github.com/IxinorTyan/SuzuEmojy_Android/issues/2",
+        "state": "closed",
+        "date": "2026-10-26T03:14:54Z"
+      }
+    ],
+    "last_activity": "2026-10-26T03:37:15Z"
+  },
+  {
     "title": "TreapGoGo/deepseek-whale-girl",
     "description": "由社区共同维护的鲸鱼娘二创资源库，整理角色参考图、生成提示词、社区作品与相关项目，为创作者提供方便易用的参考与灵感。本项目为非官方社区项目，不代表 DeepSeek 官方立场。",
     "detail": "Participation: 1 issue",
@@ -316,31 +412,6 @@
       }
     ],
     "last_activity": "2026-07-10T17:44:48Z"
-  },
-  {
-    "title": "andream7/cuit_sharing",
-    "description": "cuit期末互助仓库 ｜ 成都信息工程大学课程共享计划",
-    "detail": "Participation: 1 PR",
-    "tags": [
-      "PR ×1",
-      "Fork"
-    ],
-    "links": [
-      {
-        "label": "GitHub",
-        "url": "https://github.com/andream7/cuit_sharing"
-      }
-    ],
-    "participation": [
-      {
-        "type": "pr",
-        "title": "Add 中国天气 2025&2026",
-        "url": "https://github.com/andream7/cuit_sharing/pull/135",
-        "state": "open",
-        "date": "2026-07-05T12:10:06Z"
-      }
-    ],
-    "last_activity": "2026-07-05T12:10:06Z"
   },
   {
     "title": "ReviveUnblockNCMInstaller/RevivedSource",
