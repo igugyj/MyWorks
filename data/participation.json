@@ -1,5 +1,67 @@
 [
   {
+    "title": "IxinorTyan/SuzuEmojy_Android",
+    "description": "A simple android app for organizing, browsing, and using your emoji collection.",
+    "detail": "Participation: 3 issues",
+    "tags": [
+      "Issue ×3"
+    ],
+    "links": [
+      {
+        "label": "GitHub",
+        "url": "https://github.com/IxinorTyan/SuzuEmojy_Android"
+      }
+    ],
+    "participation": [
+      {
+        "type": "issue",
+        "title": "[feat]: 导入功能异步支持",
+        "url": "https://github.com/IxinorTyan/SuzuEmojy_Android/issues/4",
+        "state": "closed",
+        "date": "2026-10-26T03:37:15Z"
+      },
+      {
+        "type": "issue",
+        "title": "[feat]: 分类呈现按钮与输入法返回按钮区分",
+        "url": "https://github.com/IxinorTyan/SuzuEmojy_Android/issues/3",
+        "state": "closed",
+        "date": "2026-10-26T03:20:00Z"
+      },
+      {
+        "type": "issue",
+        "title": "[feat]: 分类预览图标支持",
+        "url": "https://github.com/IxinorTyan/SuzuEmojy_Android/issues/2",
+        "state": "closed",
+        "date": "2026-10-26T03:14:54Z"
+      }
+    ],
+    "last_activity": "2026-10-26T03:37:15Z"
+  },
+  {
+    "title": "hainguyents13/mechvibes",
+    "description": "The official Mechvibes app: mechanical keyboard and mouse sounds for every keystroke and click, on Windows, macOS and Linux. Built with Rust and Dioxus.",
+    "detail": "Participation: 1 issue",
+    "tags": [
+      "Issue ×1"
+    ],
+    "links": [
+      {
+        "label": "GitHub",
+        "url": "https://github.com/hainguyents13/mechvibes"
+      }
+    ],
+    "participation": [
+      {
+        "type": "issue",
+        "title": "[Feature Request] Add an option to start hidden in the system tray on Windows",
+        "url": "https://github.com/hainguyents13/mechvibes/issues/172",
+        "state": "open",
+        "date": "2026-11-02T08:05:40Z"
+      }
+    ],
+    "last_activity": "2026-11-02T08:05:40Z"
+  },
+  {
     "title": "cmyyx/bili-comment-filter",
     "description": "B站评论过滤器 - 根据关键词和正则表达式过滤Bilibili评论",
     "detail": "Participation: 1 issue, 1 PR",
@@ -56,44 +118,6 @@
       }
     ],
     "last_activity": "2026-07-05T12:10:06Z"
-  },
-  {
-    "title": "IxinorTyan/SuzuEmojy_Android",
-    "description": "A simple android app for organizing, browsing, and using your emoji collection.",
-    "detail": "Participation: 3 issues",
-    "tags": [
-      "Issue ×3"
-    ],
-    "links": [
-      {
-        "label": "GitHub",
-        "url": "https://github.com/IxinorTyan/SuzuEmojy_Android"
-      }
-    ],
-    "participation": [
-      {
-        "type": "issue",
-        "title": "[feat]: 导入功能异步支持",
-        "url": "https://github.com/IxinorTyan/SuzuEmojy_Android/issues/4",
-        "state": "open",
-        "date": "2026-10-26T03:37:15Z"
-      },
-      {
-        "type": "issue",
-        "title": "[feat]: 分类呈现按钮与输入法返回按钮区分",
-        "url": "https://github.com/IxinorTyan/SuzuEmojy_Android/issues/3",
-        "state": "closed",
-        "date": "2026-10-26T03:20:00Z"
-      },
-      {
-        "type": "issue",
-        "title": "[feat]: 分类预览图标支持",
-        "url": "https://github.com/IxinorTyan/SuzuEmojy_Android/issues/2",
-        "state": "closed",
-        "date": "2026-10-26T03:14:54Z"
-      }
-    ],
-    "last_activity": "2026-10-26T03:37:15Z"
   },
   {
     "title": "TreapGoGo/deepseek-whale-girl",
