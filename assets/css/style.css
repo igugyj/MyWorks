@@ -1,6 +1,6 @@
 @font-face {
   font-family: "Maple Mono";
-  src: url("../font/MapleMono-Medium.ttf.woff2") format("woff2");
+  src: url("https://cdn.jsdelivr.net/npm/@fontsource/maple-mono@5.0.8/files/maple-mono-latin-500-normal.woff2") format("woff2");
   font-weight: 500;
   font-style: normal;
   font-display: swap;
