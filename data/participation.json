@@ -1,5 +1,29 @@
 [
   {
+    "title": "hainguyents13/mechvibes",
+    "description": "The official Mechvibes app: mechanical keyboard and mouse sounds for every keystroke and click, on Windows, macOS and Linux. Built with Rust and Dioxus.",
+    "detail": "Participation: 1 issue",
+    "tags": [
+      "Issue ×1"
+    ],
+    "links": [
+      {
+        "label": "GitHub",
+        "url": "https://github.com/hainguyents13/mechvibes"
+      }
+    ],
+    "participation": [
+      {
+        "type": "issue",
+        "title": "[Feature Request] Add an option to start hidden in the system tray on Windows",
+        "url": "https://github.com/hainguyents13/mechvibes/issues/172",
+        "state": "closed",
+        "date": "2026-11-02T08:05:40Z"
+      }
+    ],
+    "last_activity": "2026-11-02T08:05:40Z"
+  },
+  {
     "title": "IxinorTyan/SuzuEmojy_Android",
     "description": "A simple android app for organizing, browsing, and using your emoji collection.",
     "detail": "Participation: 3 issues",
@@ -36,30 +60,6 @@
       }
     ],
     "last_activity": "2026-10-26T03:37:15Z"
-  },
-  {
-    "title": "hainguyents13/mechvibes",
-    "description": "The official Mechvibes app: mechanical keyboard and mouse sounds for every keystroke and click, on Windows, macOS and Linux. Built with Rust and Dioxus.",
-    "detail": "Participation: 1 issue",
-    "tags": [
-      "Issue ×1"
-    ],
-    "links": [
-      {
-        "label": "GitHub",
-        "url": "https://github.com/hainguyents13/mechvibes"
-      }
-    ],
-    "participation": [
-      {
-        "type": "issue",
-        "title": "[Feature Request] Add an option to start hidden in the system tray on Windows",
-        "url": "https://github.com/hainguyents13/mechvibes/issues/172",
-        "state": "open",
-        "date": "2026-11-02T08:05:40Z"
-      }
-    ],
-    "last_activity": "2026-11-02T08:05:40Z"
   },
   {
     "title": "cmyyx/bili-comment-filter",
