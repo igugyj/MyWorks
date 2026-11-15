@@ -1,5 +1,55 @@
 [
   {
+    "title": "gendu-amd/biliHoyoFairy",
+    "description": "B站(bilibili/哔哩哔哩)推荐流净化与屏蔽油猴脚本：屏蔽黑流量·引战·广告，按 标签/UP/UID/关键词(正则)/分区/时长/播放量 过滤 + 一键拉黑同步账号黑名单。",
+    "detail": "Participation: 1 PR",
+    "tags": [
+      "PR ×1",
+      "Fork"
+    ],
+    "links": [
+      {
+        "label": "GitHub",
+        "url": "https://github.com/gendu-amd/biliHoyoFairy"
+      }
+    ],
+    "participation": [
+      {
+        "type": "pr",
+        "title": "feat(ui): 面板标题栏拆两行 + GitHub 仓库入口，右下角标新增简洁模式",
+        "url": "https://github.com/gendu-amd/biliHoyoFairy/pull/6",
+        "state": "open",
+        "date": "2026-11-14T04:33:46Z"
+      }
+    ],
+    "last_activity": "2026-11-14T04:33:46Z"
+  },
+  {
+    "title": "FuzzyLogic112/china-terrain-3d",
+    "description": "中国三维地势图：基于真实高程数据的可交互三维地形网页，分层设色、等高线、地形剖面与水位模拟，面向地理课堂。Three.js 纯前端离线可用",
+    "detail": "Participation: 1 PR",
+    "tags": [
+      "PR ×1",
+      "Fork"
+    ],
+    "links": [
+      {
+        "label": "GitHub",
+        "url": "https://github.com/FuzzyLogic112/china-terrain-3d"
+      }
+    ],
+    "participation": [
+      {
+        "type": "pr",
+        "title": "feat&deps(py): 新增名山图层（三山五岳·佛道四大）；以 uv 管理 Python 依赖",
+        "url": "https://github.com/FuzzyLogic112/china-terrain-3d/pull/1",
+        "state": "open",
+        "date": "2026-11-10T10:04:20Z"
+      }
+    ],
+    "last_activity": "2026-11-10T10:04:20Z"
+  },
+  {
     "title": "hainguyents13/mechvibes",
     "description": "The official Mechvibes app: mechanical keyboard and mouse sounds for every keystroke and click, on Windows, macOS and Linux. Built with Rust and Dioxus.",
     "detail": "Participation: 1 issue",
@@ -376,7 +426,7 @@
   },
   {
     "title": "ShiGuangSchedule/shiguang_warehouse",
-    "description": "本仓库用于 shiguangschedule 适配脚本的管理和测试。所有适配脚本将集中存放于此，方便软件拉取和测试",
+    "description": "拾光项目的教务适配代码公开仓库",
     "detail": "Participation: 3 PR (2 merged)",
     "tags": [
       "PR ×3 (2 merged)",
