@@ -1,5 +1,117 @@
 [
   {
+    "title": "gendu-amd/biliHoyoFairy",
+    "description": "B站(bilibili/哔哩哔哩)推荐流净化与屏蔽油猴脚本：屏蔽黑流量·引战·广告，按 标签/UP/UID/关键词(正则)/分区/时长/播放量 过滤 + 一键拉黑同步账号黑名单。",
+    "detail": "Participation: 1 PR",
+    "tags": [
+      "PR ×1",
+      "Fork"
+    ],
+    "links": [
+      {
+        "label": "GitHub",
+        "url": "https://github.com/gendu-amd/biliHoyoFairy"
+      }
+    ],
+    "participation": [
+      {
+        "type": "pr",
+        "title": "feat(ui): 面板标题栏拆两行 + GitHub 仓库入口，右下角标新增简洁模式",
+        "url": "https://github.com/gendu-amd/biliHoyoFairy/pull/6",
+        "state": "open",
+        "date": "2026-11-14T04:33:46Z"
+      }
+    ],
+    "last_activity": "2026-11-14T04:33:46Z"
+  },
+  {
+    "title": "FuzzyLogic112/china-terrain-3d",
+    "description": "中国三维地势图：基于真实高程数据的可交互三维地形网页，分层设色、等高线、地形剖面与水位模拟，面向地理课堂。Three.js 纯前端离线可用",
+    "detail": "Participation: 1 PR",
+    "tags": [
+      "PR ×1",
+      "Fork"
+    ],
+    "links": [
+      {
+        "label": "GitHub",
+        "url": "https://github.com/FuzzyLogic112/china-terrain-3d"
+      }
+    ],
+    "participation": [
+      {
+        "type": "pr",
+        "title": "feat&deps(py): 新增名山图层（三山五岳·佛道四大）；以 uv 管理 Python 依赖",
+        "url": "https://github.com/FuzzyLogic112/china-terrain-3d/pull/1",
+        "state": "open",
+        "date": "2026-11-10T10:04:20Z"
+      }
+    ],
+    "last_activity": "2026-11-10T10:04:20Z"
+  },
+  {
+    "title": "hainguyents13/mechvibes",
+    "description": "The official Mechvibes app: mechanical keyboard and mouse sounds for every keystroke and click, on Windows, macOS and Linux. Built with Rust and Dioxus.",
+    "detail": "Participation: 1 issue",
+    "tags": [
+      "Issue ×1"
+    ],
+    "links": [
+      {
+        "label": "GitHub",
+        "url": "https://github.com/hainguyents13/mechvibes"
+      }
+    ],
+    "participation": [
+      {
+        "type": "issue",
+        "title": "[Feature Request] Add an option to start hidden in the system tray on Windows",
+        "url": "https://github.com/hainguyents13/mechvibes/issues/172",
+        "state": "closed",
+        "date": "2026-11-02T08:05:40Z"
+      }
+    ],
+    "last_activity": "2026-11-02T08:05:40Z"
+  },
+  {
+    "title": "IxinorTyan/SuzuEmojy_Android",
+    "description": "A simple android app for organizing, browsing, and using your emoji collection.",
+    "detail": "Participation: 3 issues",
+    "tags": [
+      "Issue ×3"
+    ],
+    "links": [
+      {
+        "label": "GitHub",
+        "url": "https://github.com/IxinorTyan/SuzuEmojy_Android"
+      }
+    ],
+    "participation": [
+      {
+        "type": "issue",
+        "title": "[feat]: 导入功能异步支持",
+        "url": "https://github.com/IxinorTyan/SuzuEmojy_Android/issues/4",
+        "state": "closed",
+        "date": "2026-10-26T03:37:15Z"
+      },
+      {
+        "type": "issue",
+        "title": "[feat]: 分类呈现按钮与输入法返回按钮区分",
+        "url": "https://github.com/IxinorTyan/SuzuEmojy_Android/issues/3",
+        "state": "closed",
+        "date": "2026-10-26T03:20:00Z"
+      },
+      {
+        "type": "issue",
+        "title": "[feat]: 分类预览图标支持",
+        "url": "https://github.com/IxinorTyan/SuzuEmojy_Android/issues/2",
+        "state": "closed",
+        "date": "2026-10-26T03:14:54Z"
+      }
+    ],
+    "last_activity": "2026-10-26T03:37:15Z"
+  },
+  {
     "title": "cmyyx/bili-comment-filter",
     "description": "B站评论过滤器 - 根据关键词和正则表达式过滤Bilibili评论",
     "detail": "Participation: 1 issue, 1 PR",
@@ -56,44 +168,6 @@
       }
     ],
     "last_activity": "2026-07-05T12:10:06Z"
-  },
-  {
-    "title": "IxinorTyan/SuzuEmojy_Android",
-    "description": "A simple android app for organizing, browsing, and using your emoji collection.",
-    "detail": "Participation: 3 issues",
-    "tags": [
-      "Issue ×3"
-    ],
-    "links": [
-      {
-        "label": "GitHub",
-        "url": "https://github.com/IxinorTyan/SuzuEmojy_Android"
-      }
-    ],
-    "participation": [
-      {
-        "type": "issue",
-        "title": "[feat]: 导入功能异步支持",
-        "url": "https://github.com/IxinorTyan/SuzuEmojy_Android/issues/4",
-        "state": "open",
-        "date": "2026-10-26T03:37:15Z"
-      },
-      {
-        "type": "issue",
-        "title": "[feat]: 分类呈现按钮与输入法返回按钮区分",
-        "url": "https://github.com/IxinorTyan/SuzuEmojy_Android/issues/3",
-        "state": "closed",
-        "date": "2026-10-26T03:20:00Z"
-      },
-      {
-        "type": "issue",
-        "title": "[feat]: 分类预览图标支持",
-        "url": "https://github.com/IxinorTyan/SuzuEmojy_Android/issues/2",
-        "state": "closed",
-        "date": "2026-10-26T03:14:54Z"
-      }
-    ],
-    "last_activity": "2026-10-26T03:37:15Z"
   },
   {
     "title": "TreapGoGo/deepseek-whale-girl",
@@ -352,7 +426,7 @@
   },
   {
     "title": "ShiGuangSchedule/shiguang_warehouse",
-    "description": "本仓库用于 shiguangschedule 适配脚本的管理和测试。所有适配脚本将集中存放于此，方便软件拉取和测试",
+    "description": "拾光项目的教务适配代码公开仓库",
     "detail": "Participation: 3 PR (2 merged)",
     "tags": [
       "PR ×3 (2 merged)",
