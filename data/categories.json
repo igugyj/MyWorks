@@ -25,7 +25,7 @@
     ]
   },
   {
-    "category": "VSCode",
+    "category": "Vs Code",
     "items": [
       {
         "title": "CompareCleaner",
@@ -133,6 +133,16 @@
           {
             "label": "GreasyFork",
             "url": "https://greasyfork.org/scripts/597640"
+          }
+        ]
+      },
+      {
+        "title": "GitHub Feed Filter",
+        "description": "Filter, collapse or hide GitHub feed cards by type, age the feed with time cutoff and auto-load. Fully configurable.",
+        "links": [
+          {
+            "label": "GreasyFork",
+            "url": "https://greasyfork.org/scripts/605582/"
           }
         ]
       }
