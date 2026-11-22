@@ -1,5 +1,29 @@
 [
   {
+    "title": "FXYXL/dafeiyu-coo-figure",
+    "description": "基于 Live2D 模型制作的 Coopanion 桌面宠物/看板娘资源包：包含 3 套服装、3 种尺寸以及原生表情。（模型美术：b站--神宫凉子）",
+    "detail": "Participation: 1 issue",
+    "tags": [
+      "Issue ×1"
+    ],
+    "links": [
+      {
+        "label": "GitHub",
+        "url": "https://github.com/FXYXL/dafeiyu-coo-figure"
+      }
+    ],
+    "participation": [
+      {
+        "type": "issue",
+        "title": "[Docs Error] README.md has link error",
+        "url": "https://github.com/FXYXL/dafeiyu-coo-figure/issues/1",
+        "state": "open",
+        "date": "2026-11-21T07:08:28Z"
+      }
+    ],
+    "last_activity": "2026-11-21T07:08:28Z"
+  },
+  {
     "title": "gendu-amd/biliHoyoFairy",
     "description": "B站(bilibili/哔哩哔哩)推荐流净化与屏蔽油猴脚本：屏蔽黑流量·引战·广告，按 标签/UP/UID/关键词(正则)/分区/时长/播放量 过滤 + 一键拉黑同步账号黑名单。",
     "detail": "Participation: 1 PR",
