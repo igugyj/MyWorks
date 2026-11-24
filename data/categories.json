@@ -77,16 +77,6 @@
     "category": "GreasyFork",
     "items": [
       {
-        "title": "AdGuardLogoOptimizer [Archived]",
-        "description": "移除 AdGuard浏览器助手 在每个页面的 logo，通过删除其闭合 Shadow DOM 的宿主元素",
-        "links": [
-          {
-            "label": "GreasyFork",
-            "url": "https://greasyfork.org/scripts/584543"
-          }
-        ]
-      },
-      {
         "title": "AutoSign",
         "description": "自动签到框架",
         "links": [
@@ -127,8 +117,18 @@
         ]
       },
       {
-        "title": "Github Stargazers",
-        "description": "在仓库头部 Star 按钮旁加一个 Stargazers 按钮，点击进入 Stargazers 页面",
+        "title": "GitHub Feed Filter",
+        "description": "Filter, collapse or hide GitHub feed cards by type, age the feed with time cutoff and auto-load. Fully configurable.",
+        "links": [
+          {
+            "label": "GreasyFork",
+            "url": "https://greasyfork.org/scripts/605582/"
+          }
+        ]
+      },
+      {
+        "title": "Github Stargazers [Archived]",
+        "description": "已合入GitHub Feed Filter | 在仓库头部 Star 按钮旁加一个 Stargazers 按钮，点击进入 Stargazers 页面",
         "links": [
           {
             "label": "GreasyFork",
@@ -137,12 +137,12 @@
         ]
       },
       {
-        "title": "GitHub Feed Filter",
-        "description": "Filter, collapse or hide GitHub feed cards by type, age the feed with time cutoff and auto-load. Fully configurable.",
+        "title": "AdGuardLogoOptimizer [Archived]",
+        "description": "移除 AdGuard浏览器助手 在每个页面的 logo，通过删除其闭合 Shadow DOM 的宿主元素",
         "links": [
           {
             "label": "GreasyFork",
-            "url": "https://greasyfork.org/scripts/605582/"
+            "url": "https://greasyfork.org/scripts/584543"
           }
         ]
       }
