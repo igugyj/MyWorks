@@ -162,7 +162,7 @@
     "description": "Filter, collapse or hide GitHub feed cards by type, age the feed with time cutoff and auto-load. Fully configurable.",
     "detail": "Filter, collapse or hide GitHub feed cards by type, age the feed with time cutoff and auto-load. Fully configurable.",
     "tags": [
-      "JavaScript"
+      "TypeScript"
     ],
     "links": [
       {
@@ -171,7 +171,7 @@
       }
     ],
     "stars": 0,
-    "pushed_at": "2026-11-15T06:07:46Z"
+    "pushed_at": "2026-11-23T06:20:06Z"
   },
   {
     "title": "igugyj",
@@ -357,7 +357,7 @@
       }
     ],
     "stars": 0,
-    "pushed_at": "2026-11-15T05:54:57Z"
+    "pushed_at": "2026-11-24T07:26:46Z"
   },
   {
     "title": "ncmapi",

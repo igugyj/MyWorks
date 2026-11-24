@@ -1,7 +1,7 @@
 [
   {
     "title": "FXYXL/dafeiyu-coo-figure",
-    "description": "基于 Live2D 模型制作的 Coopanion 桌面宠物/看板娘资源包：包含 3 套服装、3 种尺寸以及原生表情。（模型美术：b站--神宫凉子）",
+    "description": "基于 Live2D 模型制作的 Coopanion 桌面宠物/看板娘资源包：包含 多套装扮、3 种尺寸以及原生表情。（模型美术：b站--神宫凉子）",
     "detail": "Participation: 1 issue",
     "tags": [
       "Issue ×1"
@@ -17,7 +17,7 @@
         "type": "issue",
         "title": "[Docs Error] README.md has link error",
         "url": "https://github.com/FXYXL/dafeiyu-coo-figure/issues/1",
-        "state": "open",
+        "state": "closed",
         "date": "2026-11-21T07:08:28Z"
       }
     ],
